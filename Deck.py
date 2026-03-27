@@ -50,6 +50,10 @@ class Deck:
         self.deckList.append(card)
         self.count += 1
 
+    def removeCard(self, card: Card):
+        self.deckList.remove(card)
+        self.count -= 1
+
     def __str__(self):
         freq = {}
         for card in self.deckList:

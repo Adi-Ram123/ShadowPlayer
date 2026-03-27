@@ -9,6 +9,7 @@ class Card:
 
         # Attributes
         self.evo = False
+        self.super_evo = False
         self.attack_count = 1
         self.ward = False
         self.rush = False
@@ -23,3 +24,6 @@ class Card:
 
     def changeHealth(self, offset: int):
         self.health += offset
+
+    def __str__(self):
+        return f"{self.name} {self.attack}/{self.health}"
