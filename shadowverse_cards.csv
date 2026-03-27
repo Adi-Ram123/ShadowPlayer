@@ -1,0 +1,1733 @@
+id,name,cost,attack,health,ability,evolved_ability,class,type,tribes
+10272120,"Achim, Lord of Despair",5,3,3,"Evolve: Select an enemy follower on the field with 4 attack or less, banish it, and summon an exact copy of it.","Evolve: Select an enemy follower on the field with 4 attack or less, banish it, and summon an exact copy of it.",Portalcraft,Follower,
+10671310,Advent of the Eld Axe,2,0,0,"Select an enemy follower on the field and deal it 4 damage. If there's an allied follower on the field with a base cost of 5 or more, draw a card.",,Portalcraft,Spell,Encroacher
+10641310,Advent of the Eld Blades,4,0,0,"When this card is discarded, if its cost is 4, add an Advent of the Eld Blades to your hand and set its cost to 2.
+Select an allied follower on the field and give it +2/+2.",,Dragoncraft,Spell,Encroacher
+10631310,Advent of the Eld Crystals,2,0,0,Summon 2 copies of Crystalspawn.,,Runecraft,Spell,Encroacher
+10611310,Advent of the Eld Lance,7,0,0,Deal 4 damage to all enemy followers. Summon 2 copies of Springbloom Fairy.,,Forestcraft,Spell,Encroacher
+10651310,Advent of the Eld Sight,3,0,0,Draw 2 cards. Necromancy (4) - Restore 2 defense to your leader.,,Abysscraft,Spell,Encroacher
+10621310,Advent of the Eld Sword,5,0,0,"Summon 3 copies of Fearless Soldier.
+Enhance (7): Give them +2/+2.",,Swordcraft,Spell,Encroacher
+10661310,Advent of the Eld Tome,3,0,0,Draw 2 amulets.,,Havencraft,Spell,Encroacher
+10002210,Adventurers' Guild,3,0,0,"Fanfare: Draw a follower.
+Engage: Destroy this card. Select an allied follower on the field and give it Rush.",,Neutral,Spell,
+10632120,Adventurous Grimoire,3,3,3,"Enhance (6): Summon 2 copies of Adventurous Grimoire.
+Rush
+Last Words: Spellboost your hand.","Enhance (6): Summon 2 copies of Adventurous Grimoire.
+Rush
+Last Words: Spellboost your hand.",Runecraft,Follower,
+10112110,"Aerin, Crystalian Frostward",7,6,8,"Fanfare: Select an enemy follower on the field and destroy it. Restore 2 defense to your leader.
+Ward","Fanfare: Select an enemy follower on the field and destroy it. Restore 2 defense to your leader.
+Ward",Forestcraft,Follower,
+10264110,"Aether, Empyrean Guardian",7,2,4,"Fanfare: Summon 3 random differently named followers that cost 3 or less from your deck.
+Ward
+Super-Evolve: Give all other allied followers on the field +0/+2 and Aura.","Fanfare: Summon 3 random differently named followers that cost 3 or less from your deck.
+Ward
+Super-Evolve: Give all other allied followers on the field +0/+2 and Aura.",Havencraft,Follower,
+10422110,"Aglovale, Lord of Frost",6,5,3,"Fanfare: Deal 3 damage to all enemy followers.
+Intimidate","Fanfare: Deal 3 damage to all enemy followers.
+Intimidate",Swordcraft,Follower,
+10263110,"Agnes, the Swiftblade",5,3,4,"Storm
+Strike: If there are at least 2 allied amulets on the field, destroy a random enemy follower other than the attack target.","Storm
+Strike: If there are at least 2 allied amulets on the field, destroy a random enemy follower other than the attack target.",Havencraft,Follower,
+10124110,"Albert, Levin Stormsaber",5,3,5,"Enhance (9): Deal 3 damage to all enemy followers. Give this follower ""Can attack 2 times per turn.""
+Storm","Enhance (9): Deal 3 damage to all enemy followers. Give this follower ""Can attack 2 times per turn.""
+Storm",Swordcraft,Follower,Levin
+10433310,Alchemic Flare,2,0,0,Select an enemy follower on the field and deal it 4 damage. Gain an earth sigil. Skybound Art - Deal 2 damage to the enemy leader.,,Runecraft,Spell,
+10413310,Alfheimr,2,0,0,"Select a Mode to activate. Super Skybound Art - Activate all of them instead.
+1. Draw a card. Restore 1 defense to your leader.
+2. Give all allied followers on the field +1/+0 and Rush.
+3. Give all allied followers on the field +0/+1 and Ward.",,Forestcraft,Spell,
+10652310,Allure of the Mightiest,7,0,0,"Select an enemy follower on the field, banish it, and summon an exact copy of it.",,Abysscraft,Spell,
+10451110,"Almeida, Headstrong Miner",2,3,1,"Enhance (4): Evolve this follower and give it +1/+1.
+Rush","Enhance (4): Evolve this follower and give it +1/+1.
+Rush",Abysscraft,Follower,
+10173140,"Alouette, Doomwright Ward",5,2,4,"Fanfare: Add a Gear of Ambition and Gear of Remembrance to your hand.
+Evolve: Select an Artifact follower in your hand that costs 5 or less and summon an exact copy of it.","Fanfare: Add a Gear of Ambition and Gear of Remembrance to your hand.
+Evolve: Select an Artifact follower in your hand that costs 5 or less and summon an exact copy of it.",Portalcraft,Follower,
+10614110,"Althenia, Nurturing Bloom",8,7,7,"Fanfare: Summon 3 copies of Springbloom Fairy.
+Can attack 2 times per turn.
+Super-Evolve: Select an enemy follower on the field and destroy it.","Fanfare: Summon 3 copies of Springbloom Fairy.
+Can attack 2 times per turn.
+Super-Evolve: Select an enemy follower on the field and destroy it.",Forestcraft,Follower,
+10521110,Altruistic Aristocrat,6,4,6,"Fanfare: Select a card in your hand and discard it. Restore 3 defense to your leader. If you selected a spell, restore 6 defense instead.","Fanfare: Select a card in your hand and discard it. Restore 3 defense to your leader. If you selected a spell, restore 6 defense instead.",Swordcraft,Follower,
+10123140,"Amalia, Luxsteel Paladin",8,6,6,"Fanfare: Summon 4 copies of Steelclad Knight.
+Whenever another allied follower enters the field, give it +1/+0, Rush, and Ward.","Fanfare: Summon 4 copies of Steelclad Knight.
+Whenever another allied follower enters the field, give it +1/+0, Rush, and Ward.",Swordcraft,Follower,
+10114130,"Amataz, Origin Blader",3,2,2,"Fanfare: Give this follower +X/+X. X is the number of Pixie followers in your hand.
+Ward
+Evolve: Do this X times: ""Deal 1 damage to a random enemy follower."" X is the number of Pixie followers in your hand.","Fanfare: Give this follower +X/+X. X is the number of Pixie followers in your hand.
+Ward
+Evolve: Do this X times: ""Deal 1 damage to a random enemy follower."" X is the number of Pixie followers in your hand.",Forestcraft,Follower,
+10212310,Ambush from Above,1,0,0,"Do this 1 time: ""Deal 2 damage to a random enemy follower."" Combo (3) - Do it 2 times instead.",,Forestcraft,Spell,
+10124120,"Amelia, Silver Captain",6,4,4,"Fanfare: Draw 2 Swordcraft followers. Recover 3 play points.
+Super-Evolve: Give all other allied Swordcraft followers on the field Barrier.","Fanfare: Draw 2 Swordcraft followers. Recover 3 play points.
+Super-Evolve: Give all other allied Swordcraft followers on the field Barrier.",Swordcraft,Follower,
+10052120,Amorous Necromancer,4,5,4,"Evolve: Summon 2 copies of Ghost.
+Super-Evolve: Give them Drain.","Evolve: Summon 2 copies of Ghost.
+Super-Evolve: Give them Drain.",Abysscraft,Follower,
+10522120,Amphibian Goldmuncher,7,5,5,"At the end of your turn, if you have at least 2 spells in your hand, deal 5 damage to all enemy followers.
+Evolve: Add 2 copies of Glittering Gold to your hand.","At the end of your turn, if you have at least 2 spells in your hand, deal 5 damage to all enemy followers.
+Evolve: Add 2 copies of Glittering Gold to your hand.",Swordcraft,Follower,
+10022210,Ancestral Crown,4,0,0,"Countdown (4)
+Whenever an allied follower enters the field, give it +1/+1.",,Swordcraft,Amulet,
+10173210,Ancient Cannon,5,0,0,"Fanfare: Add a Gear of Ambition to your hand.
+Whenever you Fuse, deal 2 damage to a random enemy follower.",,Portalcraft,Spell,
+10161110,Angelic Prism Priestess,3,2,2,"Fanfare: Draw an amulet.
+Evolve: Select an amulet in your hand and reduce its cost by 1.","Fanfare: Draw an amulet.
+Evolve: Select an amulet in your hand and reduce its cost by 1.",Havencraft,Follower,
+10134120,"Anne & Grea, Mysterian Duo",5,4,4,"Fanfare: Summon an Anne's Summoning. Spellboost your hand 3 times.
+Evolve: Select an enemy follower on the field and deal it 3 damage.","Fanfare: Summon an Anne's Summoning. Spellboost your hand 3 times.
+Evolve: Select an enemy follower on the field and deal it 3 damage.",Runecraft,Follower,Mysteria
+90034130,Anne's Summoning,3,5,5,"Rush
+Ward
+At the end of your opponent's turn, destroy this card.","Rush
+Ward
+At the end of your opponent's turn, destroy this card.",Runecraft,Follower,Mysteria
+90014320,Annihilating Onslaught,6,0,0,"Activates in hand. At the end of your turn, reduce the cost of this card by 1.
+Deal 6 damage to the enemy leader. If there's an allied Izudia, Annihilation Manifest on the field, deal 20 damage instead.",,Forestcraft,Spell,
+10412120,"Anthuria, Toe-Tapping Torch",5,5,4,Fanfare: Give all allied followers on the field Barrier.,Fanfare: Give all allied followers on the field Barrier.,Forestcraft,Follower,
+10102110,"Apollo, Heaven's Envoy",3,1,2,"Fanfare: Deal 1 damage to all enemy followers.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Deal 1 damage to all enemy followers.
+Evolve: Replicate the effects of this card's Fanfare ability.",Neutral,Follower,
+10301110,Apostle of Voracity,4,2,2,Fanfare: Select another follower on the field and give it +4/-4.,Fanfare: Select another follower on the field and give it +4/-4.,Neutral,Follower,
+10131120,Apprentice Astrologer,2,2,2,Fanfare: Select a card in your hand and return it to deck. Draw a card. Gain an earth sigil.,Fanfare: Select a card in your hand and return it to deck. Draw a card. Gain an earth sigil.,Runecraft,Follower,
+10534120,"Ara, Dawnblossom",10,4,4,"On Spellboost: Reduce the cost of this card by 1.
+Fanfare: Select an enemy follower on the field and deal it 10 damage.
+Evolve: Select another follower on the field and transform it into a Regal Falcon.","On Spellboost: Reduce the cost of this card by 1.
+Fanfare: Select an enemy follower on the field and deal it 10 damage.
+Evolve: Select another follower on the field and transform it into a Regal Falcon.",Runecraft,Follower,
+10154130,"Aragavy, Eternal Hunter",5,4,3,"Fanfare: Deal 7 damage split between all enemy followers.
+Evolve: Deal 3 damage to both leaders.","Fanfare: Deal 7 damage split between all enemy followers.
+Evolve: Deal 3 damage to both leaders.",Abysscraft,Follower,
+10231120,Arcane Archivist,2,2,2,Fanfare: Select a card in your hand and return it to deck. Draw a spell.,Fanfare: Select a card in your hand and return it to deck. Draw a spell.,Runecraft,Follower,
+10032310,Arcane Eruption,4,0,0,Deal 2 damage to all followers. Earth Rite (1) - Draw a card.,,Runecraft,Spell,
+10114110,"Aria, Lady of the Woods",6,4,4,"Fanfare: Gain Crest: Aria, Lady of the Woods.
+Evolve: Summon 3 copies of Fairy.","Fanfare: Gain Crest: Aria, Lady of the Woods.
+Evolve: Summon 3 copies of Fairy.",Forestcraft,Follower,
+10654110,"Armes, Depletive Demon",9,10,10,"Aura
+Can't be destroyed by abilities.
+Clash: Destroy the opposing follower.
+Super-Evolve: Give this follower ""Can attack 3 times per turn.""","Aura
+Can't be destroyed by abilities.
+Clash: Destroy the opposing follower.
+Super-Evolve: Give this follower ""Can attack 3 times per turn.""",Abysscraft,Follower,
+10021120,Arms Peddler,4,3,2,"Rush
+Last Words: Draw a card.","Rush
+Last Words: Draw a card.",Swordcraft,Follower,
+10002110,"Arriet, Luxminstrel",3,3,3,"Evolve: Restore 2 defense to your leader.
+Super-Evolve: Restore 4 defense instead.","Evolve: Restore 2 defense to your leader.
+Super-Evolve: Restore 4 defense instead.",Neutral,Follower,
+90034320,Ars Magna,1,0,0,Select an enemy and deal it 2 damage. Restore 1 defense to your leader.,,Runecraft,Spell,
+10421120,"Arthur, Staunch Dragon",3,2,3,"Ward
+Evolve: Summon a Mordred, Illusory Lion.","Ward
+Evolve: Summon a Mordred, Illusory Lion.",Swordcraft,Follower,
+10271210,Artifact Catapult,2,0,0,"Fanfare: Add a Gear of Ambition to your hand.
+Engage (3): Destroy this card. Select an Artifact follower in your hand that costs 5 or less, summon an exact copy of it, and give the exact copy ""At the end of your opponent's turn, destroy this card.""",,Portalcraft,Spell,
+10171320,Artifact Recharge,1,0,0,Add a Gear of Ambition and Gear of Remembrance to your hand.,,Portalcraft,Spell,
+10151110,"Aryll, Moonstruck Vampire",3,1,1,"Fanfare: Summon a Bat.
+Whenever an allied Bat enters the field, give it Storm and deal 1 damage to your leader.","Fanfare: Summon a Bat.
+Whenever an allied Bat enters the field, give it Storm and deal 1 damage to your leader.",Abysscraft,Follower,
+10331120,Ascetic of Wuxing,4,3,3,"Fanfare: Summon a Paper Shikigami.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Summon a Paper Shikigami.
+Evolve: Replicate the effects of this card's Fanfare ability.",Runecraft,Follower,
+90004310,Astaroth's Reckoning,10,0,0,Set the enemy leader's max defense to 1.,,Neutral,Spell,
+10061210,Avian Statue,4,0,0,"Countdown (2)
+Last Words: Summon a Regal Falcon.
+Engage (2): Advance this amulet's count by 2.",,Havencraft,Amulet,
+10461210,Awed and Inspired,0,0,0,Engage (2): Destroy this card. Select an allied follower on the field and transform it into an Awed and Inspired. Draw a card.,,Havencraft,Spell,
+10041120,Axe-Wielding Dragonslayer,6,5,10,Ward,Ward,Dragoncraft,Follower,
+10374110,"Axia, Heir to Destruction",3,2,4,"Ward
+Can't be destroyed by abilities.
+Super-Evolve: Deal X damage to the enemy leader. X is the number of other allied cards on the field. Destroy all other allied cards on the field.","Ward
+Can't be destroyed by abilities.
+Super-Evolve: Deal X damage to the enemy leader. X is the number of other allied cards on the field. Destroy all other allied cards on the field.",Portalcraft,Follower,
+10344110,"Azurifrit, Heir to Disdain",9,5,7,"Fanfare: Do this 3 times: ""Deal 2 damage to all followers.""
+Ward
+During your turn, whenever this follower takes damage but isn't destroyed, deal 1 damage to the enemy leader.
+Super-Evolve: Fully restore the defense of this follower. Do this 3 times: ""Deal 2 damage to all followers.""","Fanfare: Do this 3 times: ""Deal 2 damage to all followers.""
+Ward
+During your turn, whenever this follower takes damage but isn't destroyed, deal 1 damage to the enemy leader.
+Super-Evolve: Fully restore the defense of this follower. Do this 3 times: ""Deal 2 damage to all followers.""",Dragoncraft,Follower,
+10452130,"Baal, Elemental Resonance",3,2,2,"Fanfare: Select a Mode to activate.
+1. Give this follower and another random allied follower on the field +1/+1.
+2. Deal 3 damage to a random enemy follower.","Fanfare: Select a Mode to activate.
+1. Give this follower and another random allied follower on the field +1/+1.
+2. Deal 3 damage to a random enemy follower.",Abysscraft,Follower,
+10112130,Baby Carbuncle,2,2,2,"Fanfare: Select another allied card on the field and return it to hand.
+Super-Evolve: Recover 3 play points.","Fanfare: Select another allied card on the field and return it to hand.
+Super-Evolve: Recover 3 play points.",Forestcraft,Follower,
+10153140,"Balto, Dusk Bounty Hunter",3,3,1,"Fanfare: Gain Crest: Balto, Dusk Bounty Hunter.","Fanfare: Gain Crest: Balto, Dusk Bounty Hunter.",Abysscraft,Follower,
+10222310,Band of Battle Princesses,2,0,0,"Deal 4 damage to a random enemy follower.
+Enhance (4): Deal damage to 3 random enemy followers instead.",,Swordcraft,Spell,
+90051120,Bat,1,1,1,Drain,Drain,Abysscraft,Follower,
+10511120,Battledore Woodsmaiden,5,4,4,"Fanfare: Summon a Fairy.
+Whenever an allied Pixie follower enters the field, deal 1 damage to the enemy leader.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Summon a Fairy.
+Whenever an allied Pixie follower enters the field, deal 1 damage to the enemy leader.
+Evolve: Replicate the effects of this card's Fanfare ability.",Forestcraft,Follower,
+10042120,Battleforged Dragon Keeper,5,5,5,Enhance (7): Summon a Vastwing Dragon.,Enhance (7): Summon a Vastwing Dragon.,Dragoncraft,Follower,
+10113130,"Bayle, Luxglaive Warrior",8,4,4,"Activates in hand. Whenever an allied follower leaves the field, reduce the cost of this card by 1.
+Fanfare: Select an enemy follower on the field and deal it 4 damage.","Activates in hand. Whenever an allied follower leaves the field, reduce the cost of this card by 1.
+Fanfare: Select an enemy follower on the field and deal it 4 damage.",Forestcraft,Follower,
+10311120,Bearer of the Fairy Blade,2,1,3,"Whenever an allied Pixie follower enters the field, give this follower +1/+0.","Whenever an allied Pixie follower enters the field, give this follower +1/+0.",Forestcraft,Follower,
+10603110,Beast Lost to the Dark,6,3,3,"Fanfare: Give this follower 3 random abilities from the following.
+1. Storm.
+2. Bane.
+3. Intimidate.
+4. Drain.
+5. Aura.
+6. Barrier.","Fanfare: Give this follower 3 random abilities from the following.
+1. Storm.
+2. Bane.
+3. Intimidate.
+4. Drain.
+5. Aura.
+6. Barrier.",Neutral,Follower,
+10474120,"Beelzebub, Supreme King",9,9,9,"Fanfare: Select 2 enemy followers on the field, remove all abilities from them, and deal them 9 damage. Give the enemy leader ""Takes 1 more damage.""","Fanfare: Select 2 enemy followers on the field, remove all abilities from them, and deal them 9 damage. Give the enemy leader ""Takes 1 more damage.""",Portalcraft,Follower,
+10643310,Beheading Eld Blades,7,0,0,"When this card is discarded, if its cost is 7, add a Beheading Eld Blades to your hand and set its cost to 5. If this card's cost is 5, add a Beheading Eld Blades to your hand and set its cost to 3.
+Deal X damage to all enemy followers. X is this card's cost.",,Dragoncraft,Spell,Encroacher
+10502120,Behemoth General,4,4,5,"Evolve: If the sum of the 3 highest base costs in your hand is higher than that of your opponent's, destroy all enemy followers.","Evolve: If the sum of the 3 highest base costs in your hand is higher than that of your opponent's, destroy all enemy followers.",Neutral,Follower,
+10454120,"Belial, Archangel of Cunning",7,7,6,"Fanfare: Deal 10 damage to all other followers. Super Skybound Art - Gain Crest: Belial, Archangel of Cunning.
+Super-Evolve: Advance the count of your Crest: Belial, Archangel of Cunning by 1.","Fanfare: Deal 10 damage to all other followers. Super Skybound Art - Gain Crest: Belial, Archangel of Cunning.
+Super-Evolve: Advance the count of your Crest: Belial, Archangel of Cunning by 1.",Abysscraft,Follower,
+10232110,"Bergent, Rejected Artes",5,4,4,"Fanfare: Summon 2 copies of Onion Patch.
+Evolve: Gain Crest: Bergent, Rejected Artes.","Fanfare: Summon 2 copies of Onion Patch.
+Evolve: Gain Crest: Bergent, Rejected Artes.",Runecraft,Follower,
+10152120,"Beryl, Nightmare Incarnate",2,3,3,"Fanfare: Deal 3 damage to your leader.
+Evolve: Restore 5 defense to your leader.","Fanfare: Deal 3 damage to your leader.
+Evolve: Restore 5 defense to your leader.",Abysscraft,Follower,
+10311310,Bestial Swipe,2,0,0,Select an enemy follower on the field and deal it 4 damage. Combo (3) - Draw a card.,,Forestcraft,Spell,
+10633310,Bewitching Eld Crystals,3,0,0,"Select a Mode to activate.
+1. Summon a Crystalspawn and give it +1/+0 and Storm.
+2. Summon 2 copies of Crystalspawn and give them +1/+0.
+Enhance (5): Activate all of them instead.",,Runecraft,Spell,Encroacher
+10654120,"Bibatii, Eld Sight",3,3,3,"Fanfare: Necromancy (4) - Evolve this follower.
+When this follower evolves, add a Depths of the Eld Sight to your hand.","Fanfare: Necromancy (4) - Evolve this follower.
+When this follower evolves, add a Depths of the Eld Sight to your hand.",Abysscraft,Follower,Encroacher
+90074220,"Black Psalm, New Revelation",3,0,0,"Countdown (1)
+Last Words: Deal 1 damage to the enemy leader. Summon a White Psalm, New Revelation.",,Portalcraft,Amulet,
+10541310,Blade of the Crestpetal,3,0,0,Draw a follower. Deal X damage to a random enemy follower. X is the cost of the card you drew.,,Dragoncraft,Spell,
+10032120,Blaze Destroyer,10,8,6,On Spellboost: Reduce the cost of this card by 1.,On Spellboost: Reduce the cost of this card by 1.,Runecraft,Follower,
+10361310,Blinding Faith,4,0,0,"Deal 3 damage to all enemy followers.
+Enhance (8): Draw 3 cards. Restore 3 defense to your leader.",,Havencraft,Spell,
+10561120,Bouquet Believer,1,1,1,"Enhance (4): Draw a card. Give this follower Bane.
+During your turn, whenever you draw a card, give this follower Rush.","Enhance (4): Draw a card. Give this follower Bane.
+During your turn, whenever you draw a card, give this follower Rush.",Havencraft,Follower,
+90014310,Bramble Burst,1,0,0,Select an enemy follower on the field or the enemy leader and deal it 3 damage.,,Forestcraft,Spell,
+10671120,Brilliant Inventor,6,1,1,Fanfare: Summon an Ominous Artifact α and give it Bane and Ward.,Fanfare: Summon an Ominous Artifact α and give it Bane and Ward.,Portalcraft,Follower,
+10012310,Bug Alert,1,0,0,Select an allied card on the field and return it to hand. Deal 2 damage to a random enemy follower.,,Forestcraft,Spell,
+10071310,Bullet from Beyond,4,0,0,Select an enemy follower on the field and destroy it. Add a Gear of Ambition and Gear of Remembrance to your hand.,,Portalcraft,Spell,
+10144110,"Burnite, Anathema of Flame",7,7,7,"Fanfare: Select a card in your hand and discard it. Deal X damage to all enemy followers. X is the cost of the selected card.
+Super-Evolve: Give your opponent Crest: Burnite, Anathema of Flame.","Fanfare: Select a card in your hand and discard it. Deal X damage to all enemy followers. X is the cost of the selected card.
+Super-Evolve: Give your opponent Crest: Burnite, Anathema of Flame.",Dragoncraft,Follower,Anathema
+10434120,"Cagliostro, Genius Alchemist",4,5,3,"Fanfare: Gain 2 earth sigils. Add an Ars Magna to your hand. Skybound Art - Evolve this follower. Super Skybound Art - Gain Crest: Cagliostro, Genius Alchemist.","Fanfare: Gain 2 earth sigils. Add an Ars Magna to your hand. Skybound Art - Evolve this follower. Super Skybound Art - Gain Crest: Cagliostro, Genius Alchemist.",Runecraft,Follower,
+10141310,Calamity Breath,6,0,0,Deal 5 damage to all followers.,,Dragoncraft,Spell,
+10634120,"Calge-Danthla, Eld Crystals",10,5,5,"Activates in hand. Whenever an allied Crystalspawn enters the field, reduce the cost of this card by 1.
+Fanfare: Summon 2 copies of Crystalspawn and give them Storm.
+Evolve: Add a Depths of the Eld Crystals to your hand.","Activates in hand. Whenever an allied Crystalspawn enters the field, reduce the cost of this card by 1.
+Fanfare: Summon 2 copies of Crystalspawn and give them Storm.
+Evolve: Add a Depths of the Eld Crystals to your hand.",Runecraft,Follower,Encroacher
+10241310,Call of the Megalorca,2,0,0,"Summon a Majestic Megalorca. If you're in Overflow, draw a Call of the Megalorca.",,Dragoncraft,Spell,
+10674110,"Camiscilla, Unfeeling Heart",7,6,6,"Fanfare: Summon a Shoddy Plaything and Substandard Puppet.
+Whenever another allied follower with a base cost of 5 or more enters the field, evolve it.
+Super-Evolve: Deal X damage to the enemy leader. X is the number of allied followers on the field with a base cost of 5 or more.","Fanfare: Summon a Shoddy Plaything and Substandard Puppet.
+Whenever another allied follower with a base cost of 5 or more enters the field, evolve it.
+Super-Evolve: Deal X damage to the enemy leader. X is the number of allied followers on the field with a base cost of 5 or more.",Portalcraft,Follower,
+10111120,Capricious Sprite,3,1,1,"Fanfare: Summon a Fairy. Add a Fairy to your hand.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Summon a Fairy. Add a Fairy to your hand.
+Evolve: Replicate the effects of this card's Fanfare ability.",Forestcraft,Follower,
+10002120,Caravan Mammoth,7,10,10,,,Neutral,Follower,
+10273110,"Carnelia, Ember of Darkness",2,2,2,"Fanfare: Add a Gear of Remembrance to your hand.
+Evolve: Select an Artifact follower in your hand and give it Ward and ""Can't be destroyed by abilities.""","Fanfare: Add a Gear of Remembrance to your hand.
+Evolve: Select an Artifact follower in your hand and give it Ward and ""Can't be destroyed by abilities.""",Portalcraft,Follower,
+10473110,"Cassius, Sky-Yearning Arrival",5,3,2,"Fanfare: Select an Artifact follower in your hand and deal X damage to all enemy followers. X is the selected follower's attack.
+Last Words: Add a Fortifier Artifact to your hand.","Fanfare: Select an Artifact follower in your hand and deal X damage to all enemy followers. X is the selected follower's attack.
+Last Words: Add a Fortifier Artifact to your hand.",Portalcraft,Follower,
+10352210,Castle of Entwining,2,0,0,"Fanfare: Select a Mode to activate.
+1. Draw a card.
+2. Give a random allied follower on the field +1/+1.
+Engage (1): Destroy this card. Replicate the effects of this card's Fanfare ability.",,Abysscraft,Spell,
+90034110,Celestial Shikigami,4,4,5,"Ward
+Last Words: Spellboost your hand 3 times.","Ward
+Last Words: Spellboost your hand 3 times.",Runecraft,Follower,Shikigami
+10021130,Centaur Centurion,8,7,5,Storm,Storm,Swordcraft,Follower,
+10154110,"Cerberus, Hellfire Unleashed",8,6,6,"Fanfare: Summon a Mimi, Right Paw Hellhound and Coco, Left Paw Hellhound. Necromancy (6) - Give all other allied followers on the field +2/+0.
+Super-Evolve: Do this 2 times: ""Reanimate (1).""","Fanfare: Summon a Mimi, Right Paw Hellhound and Coco, Left Paw Hellhound. Necromancy (6) - Give all other allied followers on the field +2/+0.
+Super-Evolve: Do this 2 times: ""Reanimate (1).""",Abysscraft,Follower,
+10153110,"Ceres, Blue Rose Maiden",4,1,4,"Bane
+At the end of your turn, restore 2 defense to your leader. If this follower is super-evolved, restore 4 instead and give this follower Barrier.","Bane
+At the end of your turn, restore 2 defense to your leader. If this follower is super-evolved, restore 4 instead and give this follower Barrier.",Abysscraft,Follower,
+10051310,Chaos Cyclone,2,0,0,"Select a Mode to activate.
+1. Draw a follower.
+2. Reanimate (2).",,Abysscraft,Spell,
+10473310,Chaos Legion,6,0,0,Deal 3 damage to all enemies. Super Skybound Art - Deal 6 damage instead.,,Portalcraft,Spell,
+10254120,"Charon, Stygian Oarswoman",5,4,4,"Fanfare: Reanimate (2) and Reanimate (1).
+Whenever an allied Departed follower enters the field, give it Ward.
+Super-Evolve: Gain Crest: Charon, Stygian Oarswoman.","Fanfare: Reanimate (2) and Reanimate (1).
+Whenever an allied Departed follower enters the field, give it Ward.
+Super-Evolve: Gain Crest: Charon, Stygian Oarswoman.",Abysscraft,Follower,
+10202110,"Cheretta, Angelic Maid",2,2,2,"Fanfare: If you've unlocked super-evolution, give this follower +0/+3.
+Ward","Fanfare: If you've unlocked super-evolution, give this follower +0/+3.
+Ward",Neutral,Follower,
+10412110,"Chloe, What a Gal",2,2,2,Enhance (8): Select a follower in your hand and summon it. Return this card to hand.,Enhance (8): Select a follower in your hand and summon it. Return this card to hand.,Forestcraft,Follower,
+90031110,Clay Golem,1,2,2,,,Runecraft,Follower,Golem
+10261110,Cleric of Crushing,3,2,4,"Ward
+Evolve: Select a super-evolved enemy follower on the field and destroy it.","Ward
+Evolve: Select a super-evolved enemy follower on the field and destroy it.",Havencraft,Follower,
+90054120,"Coco, Left Paw Hellhound",1,1,2,"Rush
+Last Words: Restore 2 defense to your leader.","Rush
+Last Words: Restore 2 defense to your leader.",Abysscraft,Follower,
+10262110,"Colette, Barrage Exorcist",3,2,2,"Fanfare: Do this 1 time: ""Deal 2 damage to a random enemy follower."" If there are at least 2 allied amulets on the field, do it 2 times instead.","Fanfare: Do this 1 time: ""Deal 2 damage to a random enemy follower."" If there are at least 2 allied amulets on the field, do it 2 times instead.",Havencraft,Follower,
+10411310,Comet Drive,2,0,0,"Select an enemy follower on the field and deal it 4 damage. If there's an evolved allied follower on the field, draw a card.",,Forestcraft,Spell,
+10321120,Comrade of the Swordmaster,6,5,5,Last Words: Summon a Comrade of the Swordmaster and remove Last Words from it.,Last Words: Summon a Comrade of the Swordmaster and remove Last Words from it.,Swordcraft,Follower,
+10373110,Congregant of Destruction,6,3,3,Fanfare: Destroy X random enemy followers. X is the number of other allied cards on the field. Destroy all other allied cards on the field.,Fanfare: Destroy X random enemy followers. X is the number of other allied cards on the field. Destroy all other allied cards on the field.,Portalcraft,Follower,
+10343110,Congregant of Disdain,6,5,7,"Fanfare: Deal 3 damage to all followers.
+At the end of your turn, if this follower's defense is 3 or less, give all Dragoncraft followers in your hand +1/+1.","Fanfare: Deal 3 damage to all followers.
+At the end of your turn, if this follower's defense is 3 or less, give all Dragoncraft followers in your hand +1/+1.",Dragoncraft,Follower,
+10353110,Congregant of Entwining,5,4,4,"Fanfare: Select a Mode to activate.
+1. Summon a Congregant of Entwining and give it and this follower Rush.
+2. Summon a Congregant of Entwining and give it and this follower Ward.
+3. Give all allied copies of Congregant of Entwining on the field +2/+2.
+Super-Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Select a Mode to activate.
+1. Summon a Congregant of Entwining and give it and this follower Rush.
+2. Summon a Congregant of Entwining and give it and this follower Ward.
+3. Give all allied copies of Congregant of Entwining on the field +2/+2.
+Super-Evolve: Replicate the effects of this card's Fanfare ability.",Abysscraft,Follower,
+10363110,Congregant of Repose,5,2,4,"Fanfare: Select an enemy follower on the field and destroy it.
+Evolve: Gain Crest: Congregant of Repose.","Fanfare: Select an enemy follower on the field and destroy it.
+Evolve: Gain Crest: Congregant of Repose.",Havencraft,Follower,
+10333110,Congregant of Truth,3,3,1,"Fanfare: If this card's cost isn't 3, summon 2 exact copies of it.
+Rush
+Super-Evolve: Summon an exact copy of this card.","Fanfare: If this card's cost isn't 3, summon 2 exact copies of it.
+Rush
+Super-Evolve: Summon an exact copy of this card.",Runecraft,Follower,
+10313110,Congregant of Unkilling,9,4,6,"When this card enters the field, summon an exact copy of it and give the exact copy -0/-1.
+Rush
+Ward","When this card enters the field, summon an exact copy of it and give the exact copy -0/-1.
+Rush
+Ward",Forestcraft,Follower,
+10323110,Congregant of Usurpation,4,3,3,"Fanfare: Add a Gilded Goblet and Gilded Boots to your hand.
+Whenever you play or Fuse a Loot card, deal 3 damage to a random enemy follower.
+Evolve: Recover 1 play point.","Fanfare: Add a Gilded Goblet and Gilded Boots to your hand.
+Whenever you play or Fuse a Loot card, deal 3 damage to a random enemy follower.
+Evolve: Recover 1 play point.",Swordcraft,Follower,
+10453310,Corruption,5,0,0,Give all followers on the field -2/-2. Give yourself and your opponent Crest: Corruption. Super Skybound Art - Destroy your Crest: Corruption.,,Abysscraft,Spell,
+10441310,Crescent Tube Ride,2,0,0,Gain Crest: Crescent Tube Ride.,,Dragoncraft,Spell,
+10551120,Crimson Soulmancer,4,3,2,"Fanfare: Reanimate (2).
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Reanimate (2).
+Evolve: Replicate the effects of this card's Fanfare ability.",Abysscraft,Follower,
+10331310,Crystal Gazing,4,0,0,Gain Crest: Crystal Gazing.,,Runecraft,Spell,
+10631110,Crystalspawn,1,1,1,Rush,Rush,Runecraft,Follower,Encroacher
+10251120,Cultivator of Malice,1,1,1,Last Words: Add a Ghost to your hand.,Last Words: Add a Ghost to your hand.,Abysscraft,Follower,
+10413110,"Cupitan, Iridescent Archer",4,3,2,"Fanfare: Skybound Art - Evolve this follower. Super Skybound Art - Deal 3 damage to the enemy leader.
+When this follower evolves, do this 7 times: ""Deal 1 damage to a random enemy follower.""","Fanfare: Skybound Art - Evolve this follower. Super Skybound Art - Deal 3 damage to the enemy leader.
+When this follower evolves, do this 7 times: ""Deal 1 damage to a random enemy follower.""",Forestcraft,Follower,
+10213110,"Cynthia, Chivalrous Elf",4,4,3,"Fanfare: Summon 2 copies of Fairy.
+Evolve: Give all allied Pixie followers on the field +1/+0.","Fanfare: Summon 2 copies of Fairy.
+Evolve: Give all allied Pixie followers on the field +1/+0.",Forestcraft,Follower,
+10261120,"Damus, Oracle of Malice",2,2,2,"Fanfare: Select an enemy follower on the field and give it ""At the end of your turn, destroy this card.""","Fanfare: Select an enemy follower on the field and give it ""At the end of your turn, destroy this card.""",Havencraft,Follower,
+10603210,Dark Dimensions,4,0,0,"Countdown (2)
+At the end of your turn, deal 2 damage to all non-Encroacher followers.",,Neutral,Amulet,
+10201310,Dark Side,2,0,0,Select a follower on the field and give it +2/-2.,,Neutral,Spell,
+10162210,Darkhaven Grace,2,0,0,Engage (1): Select an allied follower on the field and give it +1/+1. Restore 1 defense to your leader.,,Havencraft,Spell,
+10151150,Darkseal Demon,5,4,4,"Fanfare: Draw 2 cards. Deal 2 damage to your leader.
+Evolve: Select an enemy follower on the field and deal it 6 damage.","Fanfare: Draw 2 cards. Deal 2 damage to your leader.
+Evolve: Select an enemy follower on the field and deal it 6 damage.",Abysscraft,Follower,
+10631120,Daydream Librarian,6,2,2,"Fanfare: Summon a Caravan Mammoth.
+Super-Evolve: Give all other allied followers on the field Rush.","Fanfare: Summon a Caravan Mammoth.
+Super-Evolve: Give all other allied followers on the field Rush.",Runecraft,Follower,
+10031110,Dazzling Runeknight,3,2,2,"Fanfare: Select a Mode to activate.
+1. Spellboost your hand 2 times.
+2. Earth Rite (1) - Give this follower +2/+2 and Ward.","Fanfare: Select a Mode to activate.
+1. Spellboost your hand 2 times.
+2. Earth Rite (1) - Give this follower +2/+2 and Ward.",Runecraft,Follower,
+10463210,De La Fille's Gleaming Gems,3,0,0,"Engage: Destroy this card. Select a Mode to activate.
+1. Destroy a random enemy follower.
+2. Draw 2 cards.",,Havencraft,Spell,
+10642110,Decisive Swordmaster,4,4,5,"Fanfare: Select a card in your hand and discard it.
+Rush
+Barrier","Fanfare: Select a card in your hand and discard it.
+Rush
+Barrier",Dragoncraft,Follower,
+90011310,Deepwood Bounty,0,0,0,Restore 1 defense to your leader.,,Forestcraft,Spell,
+10111130,Deepwood Fairy Beast,8,4,4,Fanfare: Draw a card. Restore X defense to your leader. X is the number of cards in your hand.,Fanfare: Draw a card. Restore X defense to your leader. X is the number of cards in your hand.,Forestcraft,Follower,
+90004130,Demon of Purgatory,5,9,6,Fanfare: Select 2 enemy followers on the field and deal 6 damage to them and the enemy leader.,Fanfare: Select 2 enemy followers on the field and deal 6 damage to them and the enemy leader.,Neutral,Follower,
+10133320,Demonic Call,7,0,0,"On Spellboost: Reduce the cost of this card by 1.
+Summon a Demonic Shikigami.",,Runecraft,Spell,
+90031140,Demonic Shikigami,3,3,3,"Rush
+Last Words: Spellboost your hand.","Rush
+Last Words: Spellboost your hand.",Runecraft,Follower,Shikigami
+10653310,Depletive Eld Sight,3,0,0,"Select a Mode to activate.
+1. Recover 1 evolution point.
+2. Deal 2 damage to all enemy followers.",,Abysscraft,Spell,Encroacher
+10653110,Deprived Destroyer,5,3,3,"Fanfare: Select another allied follower on the field. If you selected one, destroy it and evolve this follower.
+When this follower evolves, summon a Bat and evolve it.","Fanfare: Select another allied follower on the field. If you selected one, destroy it and evolve this follower.
+When this follower evolves, summon a Bat and evolve it.",Abysscraft,Follower,
+90074320,Depths of the Eld Axe,0,0,0,"Select an allied follower on the field with a base cost of 5 or more, add a copy of it to your hand without revealing it, and reduce the cost of the copy by 3.",,Portalcraft,Spell,Encroacher
+90044330,Depths of the Eld Blades,2,0,0,"When this card is discarded, deal 1 damage to the enemy leader and restore 1 defense to your leader.
+Deal 1 damage to the enemy leader. Restore 1 defense to your leader.",,Dragoncraft,Spell,Encroacher
+90034330,Depths of the Eld Crystals,6,0,0,"Summon a Crystalspawn and give it +X/+X. Restore Y defense to your leader. Deal Z damage to the enemy leader. X, Y, and Z are determined randomly and add up to your faith's value.",,Runecraft,Spell,Encroacher
+90014330,Depths of the Eld Lance,1,0,0,Select an unevolved allied follower on the field and evolve it.,,Forestcraft,Spell,Encroacher
+90054330,Depths of the Eld Sight,1,0,0,Draw 2 cards.,,Abysscraft,Spell,Encroacher
+90024320,Depths of the Eld Sword,0,0,0,"Select an enemy follower on the field and deal it 1 damage.
+Enhance (1): Deal 3 damage instead.",,Swordcraft,Spell,Encroacher
+90064320,Depths of the Eld Tome,1,0,0,"Select a card on the field and destroy it. If you selected an allied amulet, deal 2 damage to the enemy leader and add a Depths of the Eld Tome to your hand.",,Havencraft,Spell,Encroacher
+10562120,Desperate Shrinemouse,5,1,3,"Fanfare: Draw a card.
+During your turn, whenever you draw a card, deal 1 damage to all enemy followers.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Draw a card.
+During your turn, whenever you draw a card, deal 1 damage to all enemy followers.
+Evolve: Replicate the effects of this card's Fanfare ability.",Havencraft,Follower,
+10001210,Detective's Lens,2,0,0,Engage: Destroy this card. Select an enemy follower on the field and remove Ward from it.,,Neutral,Spell,
+10373310,Devastating Soprano,2,0,0,"Select an allied card on the field and destroy it. Summon a White Psalm, New Revelation.",,Portalcraft,Spell,
+10652120,Devilish Heartbreaker,4,4,5,"Enhance (7): Give this follower Storm.
+Evolve: Select an enemy follower on the field and deal it 4 damage.","Enhance (7): Give this follower Storm.
+Evolve: Select an enemy follower on the field and deal it 4 damage.",Abysscraft,Follower,
+10051130,Devious Lesser Mummy,2,2,2,Fanfare: Necromancy (4) - Give this follower Storm.,Fanfare: Necromancy (4) - Give this follower Storm.,Abysscraft,Follower,
+10371110,Devotee of Destruction,4,4,4,"Fanfare: Give this follower +X/+X. X is the number of other allied cards on the field. Destroy all other allied cards on the field.
+Ward","Fanfare: Give this follower +X/+X. X is the number of other allied cards on the field. Destroy all other allied cards on the field.
+Ward",Portalcraft,Follower,
+10341110,Devotee of Disdain,2,2,2,"During your turn, whenever this follower takes damage but isn't destroyed, draw a Dragoncraft follower.","During your turn, whenever this follower takes damage but isn't destroyed, draw a Dragoncraft follower.",Dragoncraft,Follower,
+10351110,Devotee of Entwining,3,1,1,"Fanfare: Select a Mode to activate.
+1. Deal 1 damage to all enemy followers.
+2. Give this follower +2/+2.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Select a Mode to activate.
+1. Deal 1 damage to all enemy followers.
+2. Give this follower +2/+2.
+Evolve: Replicate the effects of this card's Fanfare ability.",Abysscraft,Follower,
+10361110,Devotee of Repose,2,0,4,Fanfare: Gain Crest: Devotee of Repose.,Fanfare: Gain Crest: Devotee of Repose.,Havencraft,Follower,
+10331110,Devotee of Truth,2,2,2,"Fanfare: If this card's cost isn't 2, restore 3 defense to your leader.","Fanfare: If this card's cost isn't 2, restore 3 defense to your leader.",Runecraft,Follower,
+10311110,Devotee of Unkilling,2,2,2,"Fanfare: Select an enemy follower on the field and give it -0/-1.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Select an enemy follower on the field and give it -0/-1.
+Evolve: Replicate the effects of this card's Fanfare ability.",Forestcraft,Follower,
+10321110,Devotee of Usurpation,2,2,1,"Fanfare: Add a Gilded Boots to your hand.
+Last Words: Add a Gilded Goblet to your hand.","Fanfare: Add a Gilded Boots to your hand.
+Last Words: Add a Gilded Goblet to your hand.",Swordcraft,Follower,
+10134310,Dimension Climb,18,0,0,"On Spellboost: Reduce the cost of this card by 1.
+Return your hand to deck. Draw 5 cards. Spellboost your hand 5 times. Fully recover your play points.",,Runecraft,Spell,
+10171120,"Dirk, Metal Mercenary",5,5,5,Fanfare: Summon a Fortifier Artifact.,Fanfare: Summon a Fortifier Artifact.,Portalcraft,Follower,
+10601120,Disrupted Commoner,5,4,4,"Fanfare: Select an enemy follower on the field and destroy it.
+Bane","Fanfare: Select an enemy follower on the field and destroy it.
+Bane",Neutral,Follower,
+10262310,Divine Guard,1,0,0,Select an allied follower on the field with Ward and give it +0/+1. Deal X damage to a random enemy follower. X is the selected follower's defense.,,Havencraft,Spell,
+10103310,Divine Thunder,4,0,0,Destroy a random enemy follower with the highest attack. Deal 1 damage to all enemy followers.,,Neutral,Spell,
+10303110,Dogged One,3,3,1,"Activates in hand. When an enemy follower super-evolves, give this follower Storm.
+Rush","Activates in hand. When an enemy follower super-evolves, give this follower Storm.
+Rush",Neutral,Follower,
+90072130,Doll Slayer,1,1,1,"Ambush
+Last Words: Summon a Vier, Heart Slayer.","Ambush
+Last Words: Summon a Vier, Heart Slayer.",Portalcraft,Follower,Puppetry
+10172320,Doomwright Resurgence,5,0,0,"Select 2 Artifact followers in your hand that cost 5 or less, summon an exact copy of each, and give the exact copies ""At the end of your opponent's turn, destroy this card.""",,Portalcraft,Spell,
+10162220,Dose of Holiness,3,0,0,Engage: Destroy this card. Select an enemy follower on the field and deal it 4 damage. Restore 1 defense to your leader.,,Havencraft,Spell,
+10042110,Draconic Berserker,4,4,5,"Evolve: Select an enemy follower on the field and deal it 4 damage.
+Super-Evolve: Deal damage to all enemy followers instead.","Evolve: Select an enemy follower on the field and deal it 4 damage.
+Super-Evolve: Deal damage to all enemy followers instead.",Dragoncraft,Follower,
+10243310,Draconic Strike,6,0,0,Select a card in your hand and reduce its cost by 2. Deal 3 damage to all enemy followers.,,Dragoncraft,Spell,
+10042310,Dragonsign,3,0,0,"Gain 1 max play point. Then, if you have 10 max play points, draw a card.",,Dragoncraft,Spell,
+10211120,Dwarven Malletman,5,5,5,Fanfare: Select an enemy follower on the field and deal it 4 damage. Combo (3) - Deal damage to all enemy followers instead.,Fanfare: Select an enemy follower on the field and deal it 4 damage. Combo (3) - Deal damage to all enemy followers instead.,Forestcraft,Follower,
+10133130,"Edelweiss, Sagelight Ward",4,2,2,"Fanfare: Earth Rite (2) - Evolve this follower.
+When this follower evolves, deal 4 damage to a random enemy follower and recover 2 play points.","Fanfare: Earth Rite (2) - Evolve this follower.
+When this follower evolves, deal 4 damage to a random enemy follower and recover 2 play points.",Runecraft,Follower,
+10111150,Elder Sagebrush,4,3,3,Fanfare: Deal 3 damage to a random enemy follower. Combo (3) - Deal damage to 3 random enemy followers instead.,Fanfare: Deal 3 damage to a random enemy follower. Combo (3) - Deal damage to 3 random enemy followers instead.,Forestcraft,Follower,
+10072110,Electric Whip Lass,2,1,3,Fanfare: Add a Gear of Remembrance to your hand.,Fanfare: Add a Gear of Remembrance to your hand.,Portalcraft,Follower,
+10171110,"Elise, Electrifying Inventor",1,1,1,Last Words: Add a Gear of Remembrance to your hand.,Last Words: Add a Gear of Remembrance to your hand.,Portalcraft,Follower,
+10433110,"Elmott, Remembrance Aflame",3,2,1,"Fanfare: Select an enemy follower on the field, remove all abilities from it, and deal it 3 damage.
+Super-Evolve: Gain Crest: Elmott, Remembrance Aflame.","Fanfare: Select an enemy follower on the field, remove all abilities from it, and deal it 3 damage.
+Super-Evolve: Gain Crest: Elmott, Remembrance Aflame.",Runecraft,Follower,
+10132120,"Emmylou, Witch of Wonder",5,2,2,"On Spellboost: Reduce the cost of this card by 1.
+Evolve: Summon a Clay Golem. Deal X damage to all enemy followers. X is the number of allied Golem followers on the field.","On Spellboost: Reduce the cost of this card by 1.
+Evolve: Summon a Clay Golem. Deal X damage to all enemy followers. X is the number of allied Golem followers on the field.",Runecraft,Follower,
+10533110,Emperor of Elements,7,4,4,"Fanfare: Summon 2 copies of Guardian Golem.
+Whenever an allied Golem follower enters the field, Earth Rite (1) - Evolve it.","Fanfare: Summon 2 copies of Guardian Golem.
+Whenever an allied Golem follower enters the field, Earth Rite (1) - Evolve it.",Runecraft,Follower,
+10232120,Enchanting Perfumer,4,3,3,"Fanfare: Select an enemy follower on the field and deal it 3 damage. Gain an earth sigil.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Select an enemy follower on the field and deal it 3 damage. Gain an earth sigil.
+Evolve: Replicate the effects of this card's Fanfare ability.",Runecraft,Follower,
+10602210,Encroached World,3,0,0,Engage: Select a card in your hand and transform it into an exact copy of a random card in your opponent's deck.,,Neutral,Spell,
+10271110,Engineblade Maven,6,4,5,"Fanfare: Summon a Striker Artifact. Add a Gear of Remembrance to your hand.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Summon a Striker Artifact. Add a Gear of Remembrance to your hand.
+Evolve: Replicate the effects of this card's Fanfare ability.",Portalcraft,Follower,
+90071120,Enhanced Puppet,1,3,3,"Rush
+At the end of your opponent's turn, destroy this card.","Rush
+At the end of your opponent's turn, destroy this card.",Portalcraft,Follower,Puppetry
+10632110,Enraptured Student,5,3,4,"Fanfare: Summon 2 copies of Crystalspawn.
+Whenever an allied Crystalspawn enters the field, restore 1 defense to your leader.","Fanfare: Summon 2 copies of Crystalspawn.
+Whenever an allied Crystalspawn enters the field, restore 1 defense to your leader.",Runecraft,Follower,
+10351120,Ephemeral Demon Princess,8,4,6,"Fanfare: Select 2 enemy followers on the field and destroy them. Deal 4 damage to your leader.
+Storm","Fanfare: Select 2 enemy followers on the field and destroy them. Deal 4 damage to your leader.
+Storm",Abysscraft,Follower,
+10313310,Eradicating Arrow,1,0,0,"Do this X times: ""Give a random enemy follower on the field -0/-1."" X is your Combo.",,Forestcraft,Spell,
+10121120,"Ernesta, Peace Hawker",6,4,6,"Fanfare: Give all other allied followers on the field +1/+1.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Give all other allied followers on the field +1/+1.
+Evolve: Replicate the effects of this card's Fanfare ability.",Swordcraft,Follower,
+10544110,"Erntz, Governing Justice",10,8,8,"Ward
+At the end of your turn, if this follower is unevolved, deal 8 damage to 2 random enemy followers and restore 8 defense to your leader. If this follower is evolved, deal 8 damage to the enemy leader.
+Evolve: Remove Ward from this follower. Give it Intimidate.","Ward
+At the end of your turn, if this follower is unevolved, deal 8 damage to 2 random enemy followers and restore 8 defense to your leader. If this follower is evolved, deal 8 damage to the enemy leader.
+Evolve: Remove Ward from this follower. Give it Intimidate.",Dragoncraft,Follower,
+90034310,Ersatz Elimination,4,0,0,Increase the cost of all followers in your hand by 1. Destroy all enemy followers.,,Runecraft,Spell,
+10174110,"Eudie, Maiden Reborn",3,3,3,"Fanfare: Draw a card.
+Evolve: Gain Crest: Eudie, Maiden Reborn.","Fanfare: Draw a card.
+Evolve: Gain Crest: Eudie, Maiden Reborn.",Portalcraft,Follower,
+10472110,"Eustace, Howl of Thunder",5,5,4,"Fanfare: Skybound Art - Select another unevolved allied follower on the field and evolve it and this follower.
+Clash: Deal 3 damage to the opposing follower.","Fanfare: Skybound Art - Select another unevolved allied follower on the field and evolve it and this follower.
+Clash: Deal 3 damage to the opposing follower.",Portalcraft,Follower,
+10414110,"Ewiyar, Wind Personified",2,2,1,"Fanfare: Skybound Art - Recover 1 evolution point.
+Rush","Fanfare: Skybound Art - Recover 1 evolution point.
+Rush",Forestcraft,Follower,
+10253120,"Exella, Nocturnal General",4,1,3,"Fanfare: Give this follower +X/+0. X is the number of other allied followers on the field. Deal 2 damage to your leader.
+Storm","Fanfare: Give this follower +X/+0. X is the number of other allied followers on the field. Deal 2 damage to your leader.
+Storm",Abysscraft,Follower,
+10521310,Extravagance of the Goldbloom,2,0,0,"Select a spell in your hand and discard it. Do this 2 times: ""Deal 3 damage to a random enemy follower.""",,Swordcraft,Spell,
+10142120,"Eyfa, Windrider",3,2,1,"Fanfare: If you're in Overflow, give this follower Intimidate.
+Storm","Fanfare: If you're in Overflow, give this follower Intimidate.
+Storm",Dragoncraft,Follower,
+10432110,"Ezecrain, Portent of Vengeance",6,6,5,Fanfare: Select 2 enemy followers on the field and deal them 4 damage. Gain 2 earth sigils.,Fanfare: Select 2 enemy followers on the field and deal them 4 damage. Gain 2 earth sigils.,Runecraft,Follower,
+90011110,Fairy,1,1,1,Rush,Rush,Forestcraft,Follower,Pixie
+10512120,Fairy Beastwhisperer,5,2,6,"Rush
+Bane
+Drain","Rush
+Bane
+Drain",Forestcraft,Follower,
+10111310,Fairy Convocation,1,0,0,Add 2 copies of Fairy to your hand.,,Forestcraft,Spell,
+10212120,Fairy Fencer,2,2,2,"Activates in hand. Whenever an allied follower super-evolves, set the cost of this card to 1.
+Fanfare: Add a Fairy to your hand.","Activates in hand. Whenever an allied follower super-evolves, set the cost of this card to 1.
+Fanfare: Add a Fairy to your hand.",Forestcraft,Follower,
+10011110,Fairy Tamer,2,1,1,Fanfare: Add 2 copies of Fairy to your hand.,Fanfare: Add 2 copies of Fairy to your hand.,Forestcraft,Follower,
+10143210,Fan of Otohime,1,0,0,Engage (3): Summon an Otohime's Bodyguard. Select a card in your hand and discard it.,,Dragoncraft,Spell,
+90044320,Fangs of Ardent Destruction,0,0,0,Deal 1 damage to all followers.,,Dragoncraft,Spell,
+10503310,Fate of the World,5,0,0,"Draw 2 cards. Destroy a random enemy follower with the highest attack.
+Enhance (10): Deal 4 damage to all enemies.",,Neutral,Spell,
+10111110,Fay Twinkletoes,2,2,1,Fanfare: Combo (3) - Give all other allied followers on the field +1/+1.,Fanfare: Combo (3) - Give all other allied followers on the field +1/+1.,Forestcraft,Follower,
+10621110,Fearless Soldier,2,2,2,"Enhance (3): Give this follower +1/+1.
+Rush","Enhance (3): Give this follower +1/+1.
+Rush",Swordcraft,Follower,
+10422120,"Feather, Bombastic Brawler",3,5,4,,,Swordcraft,Follower,
+10161310,Featherfall,6,0,0,Deal 3 damage to all enemy followers. Summon a Holy Falcon.,,Havencraft,Spell,
+10454110,"Fediel, Darkness Personified",7,5,5,"Fanfare: Necromancy (6) - Reanimate (2), Reanimate (1), and evolve them.
+At the end of your turn, give all enemy followers on the field -2/-2.","Fanfare: Necromancy (6) - Reanimate (2), Reanimate (1), and evolve them.
+At the end of your turn, give all enemy followers on the field -2/-2.",Abysscraft,Follower,
+10244120,"Fennie, Prismatic Phoenix",8,4,4,Fanfare: Halve the cost of all cards in your deck.,Fanfare: Halve the cost of all cards in your deck.,Dragoncraft,Follower,
+10343310,Ferocious Flame,1,0,0,"Select an allied follower on the field and deal it 1 damage. Deal 3 damage to a random enemy follower. If you're in Overflow, draw a Dragoncraft follower.",,Dragoncraft,Spell,
+10552110,Fickle Necromancer,3,1,1,"Fanfare: Summon a Ghost and Skeleton.
+Evolve: Summon a Rotting Zombie.","Fanfare: Summon a Ghost and Skeleton.
+Evolve: Summon a Rotting Zombie.",Abysscraft,Follower,
+10372120,Field Scientist,5,3,4,Fanfare: Select a card in your hand and discard it. Draw 3 cards.,Fanfare: Select a card in your hand and discard it. Draw 3 cards.,Portalcraft,Follower,
+10244110,"Filene, Whitefrost Bloom",2,2,2,"Fanfare: If you're in Overflow, add a Whitefrost Whisper to your hand.
+Bane
+Evolve: Deal 1 damage to all enemy followers.","Fanfare: If you're in Overflow, add a Whitefrost Whisper to your hand.
+Bane
+Evolve: Deal 1 damage to all enemy followers.",Dragoncraft,Follower,
+10422130,"Fiorito, Muscles in Bloom",4,2,6,"Ambush
+Bane","Ambush
+Bane",Swordcraft,Follower,
+90041110,Fire Drake Whelp,1,1,1,Intimidate,Intimidate,Dragoncraft,Follower,
+10232310,Flames of Chaos,3,0,0,"X starts at 0.
+On Spellboost: Increase X by 1.
+Deal X damage split between all enemy followers.",,Runecraft,Spell,
+10021110,Flashstep Quickblader,1,1,1,Storm,Storm,Swordcraft,Follower,
+10141130,Fledgling Dragonslayer,4,2,2,Fanfare: Select an enemy follower on the field and destroy it.,Fanfare: Select an enemy follower on the field and destroy it.,Dragoncraft,Follower,
+10272310,Flight of Icarus,1,0,0,"Select an Artifact follower in your hand and give it Rush and ""Last Words: Draw a card.""",,Portalcraft,Spell,
+10511310,Flight of the Swarmpetal,2,0,0,Deal 3 damage split between all enemy followers. Add a Fairy to your hand.,,Forestcraft,Spell,
+10612310,Floral Offering,5,0,0,"Activates in hand. Whenever an allied follower evolves, reduce the cost of this card by 1.
+Draw 2 cards.",,Forestcraft,Spell,
+10571120,Flowering Artisan,5,3,3,"Fanfare: Draw a spell.
+Whenever you play a spell, deal 3 damage to all enemy followers.","Fanfare: Draw a spell.
+Whenever you play a spell, deal 3 damage to all enemy followers.",Portalcraft,Follower,
+10512110,Flowering Friendship,2,2,2,Fanfare: Combo (5) - Summon a Flowering Friendship and evolve it and this follower.,Fanfare: Combo (5) - Summon a Flowering Friendship and evolve it and this follower.,Forestcraft,Follower,
+10031310,Foresight,1,0,0,Draw a card.,,Runecraft,Spell,
+10144120,"Forte, Blackwing Dragoon",6,5,2,"Storm
+Intimidate","Storm
+Intimidate",Dragoncraft,Follower,
+90072120,Fortifier Artifact,3,1,5,"Fuse: Artifact cards
+When you Fuse to this card, transform it based on the total cost of the cards fused.
+1: Ominous Artifact α
+2: Ominous Artifact β
+3 or more: Ominous Artifact γ
+Ward","Fuse: Artifact cards
+When you Fuse to this card, transform it based on the total cost of the cards fused.
+1: Ominous Artifact α
+2: Ominous Artifact β
+3 or more: Ominous Artifact γ
+Ward",Portalcraft,Follower,Artifact
+10061120,Fox of Purity,2,1,3,Ward,Ward,Havencraft,Follower,
+10112310,Fragrantwood Whispers,3,0,0,Add a Deepwood Bounty to your hand. Draw a card.,,Forestcraft,Spell,
+10552120,Friendly Blue Ogre,5,3,5,"Fanfare: Select an enemy follower on the field and give it ""Can't attack followers or leaders"" until the end of your opponent's turn. Draw a card.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Select an enemy follower on the field and give it ""Can't attack followers or leaders"" until the end of your opponent's turn. Draw a card.
+Evolve: Replicate the effects of this card's Fanfare ability.",Abysscraft,Follower,
+10641120,Fruitfish,2,2,2,"Enhance (6): Summon 2 copies of Fruitfish.
+Last Words: Restore 1 defense to your leader.","Enhance (6): Summon 2 copies of Fruitfish.
+Last Words: Restore 1 defense to your leader.",Dragoncraft,Follower,
+10464110,"Galleon, Earth Personified",3,5,5,"Ward
+Can't attack followers or leaders.
+At the end of your turn, if you've unlocked super-evolution, evolve a random unevolved allied follower on the field that didn't attack this turn.","Ward
+Can't attack followers or leaders.
+At the end of your turn, if you've unlocked super-evolution, evolve a random unevolved allied follower on the field that didn't attack this turn.",Havencraft,Follower,
+10344120,"Galmieux, Ardor Manifest",5,5,5,"Fanfare: Gain Crest: Galmieux, Ardor Manifest.
+Enhance (7): Give this follower Storm.
+Once on each of your turns, when this follower takes damage but isn't destroyed, deal 3 damage to a random enemy follower.","Fanfare: Gain Crest: Galmieux, Ardor Manifest.
+Enhance (7): Give this follower Storm.
+Once on each of your turns, when this follower takes damage but isn't destroyed, deal 3 damage to a random enemy follower.",Dragoncraft,Follower,
+10213310,Garden's Allure,2,0,0,"Fuse: Forestcraft cards
+Draw a card. If you've Fused to this card, draw 2 instead.",,Forestcraft,Spell,
+10144130,"Garyu, Fabled Dragonkin",8,5,5,"Fanfare: Summon a Supreme Golden Dragon and Supreme Silver Dragon.
+Super-Evolve: Give all allied copies of Supreme Golden Dragon on the field Storm. Give all allied copies of Supreme Silver Dragon on the field Barrier.","Fanfare: Summon a Supreme Golden Dragon and Supreme Silver Dragon.
+Super-Evolve: Give all allied copies of Supreme Golden Dragon on the field Storm. Give all allied copies of Supreme Silver Dragon on the field Barrier.",Dragoncraft,Follower,
+90071210,Gear of Ambition,1,0,0,"Fuse: Artifact amulets
+When you Fuse to this card, transform it into a Striker Artifact.
+Can't be played.",,Portalcraft,Spell,Artifact
+90071220,Gear of Remembrance,1,0,0,"Fuse: Artifact amulets
+When you Fuse to this card, transform it into a Fortifier Artifact.
+Can't be played.",,Portalcraft,Spell,Artifact
+10222110,"Gelt, Intrepid Vice-Captain",3,3,3,"Ward
+At the end of your turn, if there's a super-evolved allied follower on the field, give all allied followers on the field +1/+1.","Ward
+At the end of your turn, if there's a super-evolved allied follower on the field, give all allied followers on the field +1/+1.",Swordcraft,Follower,
+10143110,Genesis Dragon Reborn,10,9,10,Storm,Storm,Dragoncraft,Follower,
+10011130,Gentle Treant,4,4,4,"Fanfare: Combo (3) - Evolve this follower.
+Strike: Restore 2 defense to your leader.","Fanfare: Combo (3) - Evolve this follower.
+Strike: Restore 2 defense to your leader.",Forestcraft,Follower,
+10504110,"Getenou, Eightfold Glory",8,8,8,"Fanfare: Discard your hand. Select a Mode to activate.
+1. Draw 8 cards.
+2. Draw 2 cards and reduce their costs by 8.","Fanfare: Discard your hand. Select a Mode to activate.
+1. Draw 8 cards.
+2. Draw 2 cards and reduce their costs by 8.",Neutral,Follower,
+10251310,Ghastly Soiree,2,0,0,"Add a Ghost, Skeleton, and Rotting Zombie to your hand.",,Abysscraft,Spell,
+90051130,Ghost,1,1,1,"Storm
+When this card leaves the field, banish it.
+At the end of your turn, banish this card.","Storm
+When this card leaves the field, banish it.
+At the end of your turn, banish this card.",Abysscraft,Follower,Departed
+10651120,Ghost Dodger,3,3,2,"Rush
+Last Words: Add a Ghost to your hand.","Rush
+Last Words: Add a Ghost to your hand.",Abysscraft,Follower,
+10151140,Ghost Juggler,6,5,5,Fanfare: Reanimate (4).,Fanfare: Reanimate (4).,Abysscraft,Follower,
+10224110,"Gildaria, Anathema of Peace",6,4,4,"Fanfare: Rally (20) - Super-evolve this follower.
+Whenever another allied follower enters the field, deal 1 damage to all enemy followers.
+When this follower evolves, summon 2 copies of Steelclad Knight and give them Rush.","Fanfare: Rally (20) - Super-evolve this follower.
+Whenever another allied follower enters the field, deal 1 damage to all enemy followers.
+When this follower evolves, summon 2 copies of Steelclad Knight and give them Rush.",Swordcraft,Follower,Anathema
+90021310,Gilded Blade,1,0,0,Select an enemy follower on the field or the enemy leader and deal it 1 damage.,,Swordcraft,Spell,Loot
+90021330,Gilded Boots,1,0,0,Select an allied follower on the field and give it +1/+0 and Rush.,,Swordcraft,Spell,Loot
+90021320,Gilded Goblet,1,0,0,Restore 2 defense to your leader.,,Swordcraft,Spell,Loot
+90021340,Gilded Necklace,1,0,0,Select an allied follower on the field and give it +0/+1 and Ward.,,Swordcraft,Spell,Loot
+10304120,"Gilnelise, Voracity Manifest",3,0,3,"Fanfare: Select another follower on the field and give it +2/-2. If both players have 10 max play points, add a Sweetness of Voracity to your hand.
+Drain
+Evolve: Select a follower on the field and give it +2/-2.","Fanfare: Select another follower on the field and give it +2/-2. If both players have 10 max play points, add a Sweetness of Voracity to your hand.
+Drain
+Evolve: Select a follower on the field and give it +2/-2.",Neutral,Follower,
+10254110,"Ginsetsu & Yuzuki, Twin Calamities",9,5,9,"Fanfare: Select a Mode to activate.
+1. Summon 4 copies of One-Tailed Fox.
+2. Destroy 4 random enemy followers. Restore 4 defense to your leader.","Fanfare: Select a Mode to activate.
+1. Summon 4 copies of One-Tailed Fox.
+2. Destroy 4 random enemy followers. Restore 4 defense to your leader.",Abysscraft,Follower,
+10231310,Glacial Crash,4,0,0,Select an enemy follower on the field and destroy it. Earth Rite (1) - Deal 2 damage to the enemy leader.,,Runecraft,Spell,
+10113120,"Glade, Fragrantwood Ward",5,3,3,"Fanfare: Draw 2 cards.
+Evolve: Deal X damage split between all enemy followers. X is the number of cards in your hand.","Fanfare: Draw 2 cards.
+Evolve: Deal X damage split between all enemy followers. X is the number of cards in your hand.",Forestcraft,Follower,
+90021350,Glittering Gold,0,0,0,"Select a Mode to activate.
+1. Draw a card.
+2. Deal 2 damage to a random enemy follower.",,Swordcraft,Spell,
+90001110,Goblin,1,1,2,,,Neutral,Follower,
+10101310,Goblin Foray,5,0,0,Summon 5 copies of Goblin.,,Neutral,Spell,
+10502110,Goddess of Starlight,5,5,5,Evolve: Select 3 cards in your hand and discard them. Add an exact copy each of the 3 leftmost cards in your hand to your hand without revealing them.,Evolve: Select 3 cards in your hand and discard them. Add an exact copy each of the 3 leftmost cards in your hand to your hand without revealing them.,Neutral,Follower,
+10113210,Godwood Staff,3,0,0,"At the end of your turn, Combo (3) - Draw a card.
+Engage: Destroy this card. Select another allied card on the field and return it to hand.",,Forestcraft,Spell,
+10423110,"Golden Knight, True King's Blade",7,6,6,"Fanfare: Select a Mode to activate.
+1. Super-evolve this follower.
+2. Deal 4 damage to all enemy followers.
+3. Restore 4 defense to your leader.
+Enhance (9): Activate all of them instead.","Fanfare: Select a Mode to activate.
+1. Super-evolve this follower.
+2. Deal 4 damage to all enemy followers.
+3. Restore 4 defense to your leader.
+Enhance (9): Activate all of them instead.",Swordcraft,Follower,
+10142310,Goldennote Melody,3,0,0,"Draw 2 cards. If you're in Overflow, restore 2 defense to your leader.",,Dragoncraft,Spell,
+10112120,Good Fairy of the Pond,1,1,1,Last Words: Add a Fairy to your hand.,Last Words: Add a Fairy to your hand.,Forestcraft,Follower,
+10513310,Grace of the Swarmpetal,3,0,0,Draw X cards. X is your Combo.,,Forestcraft,Spell,
+10403110,"Gran & Djeeta, Valiant Skyfarers",4,3,2,"Fanfare: Select a Mode to activate. Skybound Art - Evolve this follower.
+1. Deal 5 damage to a random enemy follower.
+2. Draw 2 followers.","Fanfare: Select a Mode to activate. Skybound Art - Evolve this follower.
+1. Deal 5 damage to a random enemy follower.
+2. Draw 2 followers.",Neutral,Follower,
+10533310,Grandeur of the Dawnblossom,7,0,0,Transform all allied followers on the field into exact copies of random followers in your deck.,,Runecraft,Spell,
+90004320,Great Testimony,1,0,0,Select an enemy follower on the field and destroy it.,,Neutral,Spell,
+10301310,Greatness Ascended,4,0,0,"Draw 3 cards. If there are no duplicates in your deck, recover 3 play points.",,Neutral,Spell,
+10312120,Greatwood Warrior,4,4,4,Last Words: Add a Deepwood Bounty and Fairy to your hand.,Last Words: Add a Deepwood Bounty and Fairy to your hand.,Forestcraft,Follower,
+10204120,"Grimnir, Heavenly Gale",3,2,3,"Fanfare: Gain Crest: Grimnir, Heavenly Gale.
+Ward","Fanfare: Gain Crest: Grimnir, Heavenly Gale.
+Ward",Neutral,Follower,
+90031120,Guardian Golem,3,3,3,Ward,Ward,Runecraft,Follower,Golem
+10312210,Hamlet of Unkilling,3,0,0,"Fanfare: Select a card in your hand and discard it. Draw 2 cards.
+Engage: Destroy this card. Select an enemy follower on the field and give it -0/-2.",,Forestcraft,Spell,
+10623110,Heartless Strategist,4,2,1,"Fanfare: Select an enemy follower on the field and destroy it.
+Enhance (6): Recover 3 play points. Add a Fearless Soldier to your hand.","Fanfare: Select an enemy follower on the field and destroy it.
+Enhance (6): Recover 3 play points. Add a Fearless Soldier to your hand.",Swordcraft,Follower,
+10364110,"Himeka, Heir to Repose",6,0,4,"Fanfare: Gain Crest: Himeka, Heir to Repose.
+Super-Evolve: Set the attack of all enemy followers on the field to 4.","Fanfare: Gain Crest: Himeka, Heir to Repose.
+Super-Evolve: Set the attack of all enemy followers on the field to 4.",Havencraft,Follower,
+10203120,"Hnikar & Jafnhar, Firestorm Duo",2,2,2,"Enhance (5): Evolve this follower.
+Last Words: If this follower is evolved, deal 4 damage to a random enemy follower.","Enhance (5): Evolve this follower.
+Last Words: If this follower is evolved, deal 4 damage to a random enemy follower.",Neutral,Follower,
+90064110,Holy Cavalier,1,1,2,Ward,Ward,Havencraft,Follower,
+90061110,Holy Falcon,3,2,2,Storm,Storm,Havencraft,Follower,
+10161120,Holy Shieldmaiden,3,2,1,"Ward
+Barrier","Ward
+Barrier",Havencraft,Follower,
+90061120,Holyflame Tiger,4,4,4,Rush,Rush,Havencraft,Follower,
+10133310,Homework Time!,3,0,0,"X starts at 0.
+On Spellboost: Increase X by 1. Then, if X is at least 5, transform this card into a Looking Smart!
+Draw 2 cards.",,Runecraft,Spell,Mysteria
+10121140,Hound of War,3,4,2,"Enhance (6): Summon 2 copies of Hound of War.
+Rush","Enhance (6): Summon 2 copies of Hound of War.
+Rush",Swordcraft,Follower,
+10612120,Howling Wolfman,6,5,3,Storm,Storm,Forestcraft,Follower,
+10121110,"Ian, Lovebound Knight",3,2,2,"Fanfare: Select another allied follower on the field and give it +1/+1.
+Ward","Fanfare: Select another allied follower on the field and give it +1/+1.
+Ward",Swordcraft,Follower,
+10621120,Idle Maid,4,3,5,Fanfare: Select a card in your hand and return it to deck. Draw 2 Swordcraft followers.,Fanfare: Select a card in your hand and return it to deck. Draw 2 Swordcraft followers.,Swordcraft,Follower,
+10121150,Ignominious Samurai,2,2,1,"Fanfare: If you've unlocked super-evolution, give this follower Bane.
+Rush","Fanfare: If you've unlocked super-evolution, give this follower Bane.
+Rush",Swordcraft,Follower,
+10333310,Illusory Conjuration,2,0,0,Select a follower in your hand and increase its cost by 1. Destroy a random enemy follower.,,Runecraft,Spell,
+10472120,"Ilsa, Brutal Drill Sergeant",7,7,6,"Fanfare: Select a Mode to activate.
+1. Do this 3 times: ""Deal 4 damage to a random enemy follower.""
+2. Deal 4 damage to the enemy leader.","Fanfare: Select a Mode to activate.
+1. Do this 3 times: ""Deal 4 damage to a random enemy follower.""
+2. Deal 4 damage to the enemy leader.",Portalcraft,Follower,
+10574120,"Imari, Dewdrop",2,2,2,"Fanfare: Select a card in your hand and discard it. Draw a spell.
+Whenever you play a spell, if this follower is evolved, summon an Imari's Little Buddies.
+Super-Evolve: Draw 2 differently named 1-cost spells.","Fanfare: Select a card in your hand and discard it. Draw a spell.
+Whenever you play a spell, if this follower is evolved, summon an Imari's Little Buddies.
+Super-Evolve: Draw 2 differently named 1-cost spells.",Portalcraft,Follower,
+90074140,Imari's Little Buddies,2,3,3,Rush,Rush,Portalcraft,Follower,
+10262120,Immaculate Adjudicator,5,4,4,Fanfare: Select an enemy follower on the field and banish it.,Fanfare: Select an enemy follower on the field and banish it.,Havencraft,Follower,
+10562110,Immovable Paladin,8,4,4,"Fanfare: Summon 3 copies of Immovable Paladin.
+Ward","Fanfare: Summon 3 copies of Immovable Paladin.
+Ward",Havencraft,Follower,
+10643110,Impeding Pugilist,6,6,9,"Fanfare: Select a card in your hand and discard it. Deal 6 damage to a random enemy follower.
+Ward
+Barrier
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Select a card in your hand and discard it. Deal 6 damage to a random enemy follower.
+Ward
+Barrier
+Evolve: Replicate the effects of this card's Fanfare ability.",Dragoncraft,Follower,
+10001110,Indomitable Fighter,2,2,2,Enhance (4): Give this follower +3/+3.,Enhance (4): Give this follower +3/+3.,Neutral,Follower,
+10532110,Insomniac Witch,4,3,3,"Fanfare: Gain Crest: Insomniac Witch.
+Evolve: Destroy your Crest: Insomniac Witch.","Fanfare: Gain Crest: Insomniac Witch.
+Evolve: Destroy your Crest: Insomniac Witch.",Runecraft,Follower,
+10302110,Inspirational One,2,1,3,"Activates in hand. When an enemy follower super-evolves, give this follower Bane.
+Ward","Activates in hand. When an enemy follower super-evolves, give this follower Bane.
+Ward",Neutral,Follower,
+10332210,Institute of Truth,3,0,0,"Countdown (5)
+Whenever you play a follower whose cost has been changed, draw a card and advance this amulet's count by 1.
+Engage: Select a follower in your hand, increase its cost by 1, and give it +1/+1.",,Runecraft,Amulet,
+10242110,Intent Dragonewt Princess,2,2,2,"Fanfare: If there's a super-evolved allied follower on the field, draw 2 cards.","Fanfare: If there's a super-evolved allied follower on the field, draw 2 cards.",Dragoncraft,Follower,
+10122310,Ironcrown Majesty,3,0,0,"Select a Mode to activate.
+1. Summon a Steelclad Knight and Knight.
+2. Give all allied followers on the field +1/+1.",,Swordcraft,Spell,
+10062110,Ironfist Priest,4,5,4,"Evolve: Select an enemy follower on the field with 3 defense or less and banish it.
+Super-Evolve: Banish all enemy followers with 3 defense or less instead.","Evolve: Select an enemy follower on the field with 3 defense or less and banish it.
+Super-Evolve: Banish all enemy followers with 3 defense or less instead.",Havencraft,Follower,
+10171130,Ironheart Hunter,2,2,2,"Fanfare: Add a Gear of Ambition to your hand.
+Evolve: Select an enemy follower on the field and deal it 3 damage.","Fanfare: Add a Gear of Ambition to your hand.
+Evolve: Select an enemy follower on the field and deal it 3 damage.",Portalcraft,Follower,
+10542110,Ironmace Dragoon,8,7,7,Fanfare: Select an enemy follower on the field and deal it 7 damage. Summon a Vastwing Dragon.,Fanfare: Select an enemy follower on the field and deal it 7 damage. Summon a Vastwing Dragon.,Dragoncraft,Follower,
+10471130,"Isaac, Congenial Engineer",2,2,2,Last Words: Add a Striker Artifact to your hand.,Last Words: Add a Striker Artifact to your hand.,Portalcraft,Follower,
+10442110,"Izmir, Frigid Fate",5,5,4,"Fanfare: If you have 10 max play points, evolve this follower.
+When this follower evolves, deal 3 damage to all enemy followers.","Fanfare: If you have 10 max play points, evolve this follower.
+When this follower evolves, deal 3 damage to all enemy followers.",Dragoncraft,Follower,
+10314120,"Izudia, Annihilation Manifest",8,6,6,"Fanfare: Select an enemy follower on the field and give it -0/-6.
+Evolve: Add an Annihilating Onslaught to your hand.","Fanfare: Select an enemy follower on the field and give it -0/-6.
+Evolve: Add an Annihilating Onslaught to your hand.",Forestcraft,Follower,
+10164120,"Jeanne, Saintly Knight",8,6,6,"Fanfare: Deal 6 damage to all enemy followers. Give all other allied followers on the field +2/+4.
+Ward","Fanfare: Deal 6 damage to all enemy followers. Give all other allied followers on the field +2/+4.
+Ward",Havencraft,Follower,
+10542120,Jellyfish Dancer,2,2,1,"Fanfare: Add a Majestic Megalorca to your hand.
+Whenever an allied Marine follower enters the field, give this follower Rush and Bane.","Fanfare: Add a Majestic Megalorca to your hand.
+Whenever an allied Marine follower enters the field, give this follower Rush and Bane.",Dragoncraft,Follower,
+10123110,"Jeno, Levin Axeraider",7,7,6,"Rush
+Can attack 2 times per turn.
+Strike: Give this follower Barrier. Summon a Knight.","Rush
+Can attack 2 times per turn.
+Strike: Give this follower Barrier. Summon a Knight.",Swordcraft,Follower,Levin
+10441110,"Joel, Wave Chaser",3,3,3,"Ward
+Aura","Ward
+Aura",Dragoncraft,Follower,
+10133110,"Juno, Visionary Alchemist",5,3,3,"Fanfare: Select an enemy follower on the field and deal it X damage. X is the number of earth sigils you have.
+Evolve: Gain Crest: Juno, Visionary Alchemist.","Fanfare: Select an enemy follower on the field and deal it X damage. X is the number of earth sigils you have.
+Evolve: Gain Crest: Juno, Visionary Alchemist.",Runecraft,Follower,
+10124130,"Kagemitsu, Enduring Warrior",3,2,2,"Last Words: Gain Crest: Kagemitsu, Enduring Warrior.
+Super-Evolve: Give this follower Storm.","Last Words: Gain Crest: Kagemitsu, Enduring Warrior.
+Super-Evolve: Give this follower Storm.",Swordcraft,Follower,
+10664110,"Kandima, Sublime Hatred",4,3,3,"Fanfare: Summon a copy each of 2 random differently named allied amulets destroyed this match with Last Words and a base cost of 2 or less.
+Super-Evolve: Select another card on the field and destroy it. If you selected an allied amulet, deal 3 damage to all enemy followers.","Fanfare: Summon a copy each of 2 random differently named allied amulets destroyed this match with Last Words and a base cost of 2 or less.
+Super-Evolve: Select another card on the field and destroy it. If you selected an allied amulet, deal 3 damage to all enemy followers.",Havencraft,Follower,
+10274120,"Karula, Eternal Arts",6,5,4,"Fanfare: Select an Artifact follower in your hand that costs 5 or less and summon an exact copy of it.
+Super-Evolve: Give this follower ""Can attack 2 times per turn.""","Fanfare: Select an Artifact follower in your hand that costs 5 or less and summon an exact copy of it.
+Super-Evolve: Give this follower ""Can attack 2 times per turn.""",Portalcraft,Follower,
+10401110,"Katalina, Sky's Protector",5,5,5,"Fanfare: Skybound Art - Deal 5 damage to 2 random enemy followers.
+Ward
+Can't take more than 3 damage at a time.","Fanfare: Skybound Art - Deal 5 damage to 2 random enemy followers.
+Ward
+Can't take more than 3 damage at a time.",Neutral,Follower,
+10113140,Killer Rhinoceroach,3,0,2,"Fanfare: Give this follower +X/+0. X is your Combo.
+Storm","Fanfare: Give this follower +X/+0. X is your Combo.
+Storm",Forestcraft,Follower,
+10612110,Kindly Executor,2,1,2,Fanfare: Add a Springbloom Fairy to your hand.,Fanfare: Add a Springbloom Fairy to your hand.,Forestcraft,Follower,
+10142110,"Kit, Luxfang Champion",6,8,7,"When this card is discarded, give a random allied follower on the field +1/+0.
+Rush","When this card is discarded, give a random allied follower on the field +1/+0.
+Rush",Dragoncraft,Follower,
+10071110,Kitty Cannoneer,3,3,2,"Fanfare: Add a Gear of Ambition to your hand.
+Rush","Fanfare: Add a Gear of Ambition to your hand.
+Rush",Portalcraft,Follower,
+10532310,Kitty Cunning,1,0,0,"Earth Rite (2) - Activate 2 random abilities from the following.
+1. Summon a Clay Golem.
+2. Restore 2 defense to your leader.
+3. Gain 3 earth sigils.",,Runecraft,Spell,
+90021110,Knight,0,1,1,,,Swordcraft,Follower,Officer
+10361120,Knight of the Holy Order,2,2,2,"Ward
+Whenever this follower is given + attack or defense on the field, restore 1 defense to your leader.","Ward
+Whenever this follower is given + attack or defense on the field, restore 1 defense to your leader.",Havencraft,Follower,
+10423310,Knightly Ardor,5,0,0,"Select a Mode to activate.
+1. Give the leftmost allied Swordcraft follower on the field ""Can attack 2 times per turn.""
+2. Give all allied Swordcraft followers on the field +1/+1 and Barrier.
+3. Recover 2 play points and 1 evolution point.
+4. Restore 6 defense to your leader.",,Swordcraft,Spell,
+10121310,Knightly Rending,4,0,0,Select an enemy follower on the field and destroy it. Summon a Steelclad Knight.,,Swordcraft,Spell,
+10411110,"Kou & You, Love and Hatred",7,8,6,"Can attack 2 times per turn.
+Strike: Restore 3 defense to all allies.","Can attack 2 times per turn.
+Strike: Restore 3 defense to all allies.",Forestcraft,Follower,
+10314110,"Krulle, Heir to Unkilling",4,1,3,"Fanfare: Give all enemy followers on the field -0/-2.
+Ambush
+Once on each of your turns, when an enemy follower is given - defense on the field, restore 1 defense to your leader.
+Super-Evolve: Give your opponent Crest: Krulle, Heir to Unkilling.","Fanfare: Give all enemy followers on the field -0/-2.
+Ambush
+Once on each of your turns, when an enemy follower is given - defense on the field, restore 1 defense to your leader.
+Super-Evolve: Give your opponent Crest: Krulle, Heir to Unkilling.",Forestcraft,Follower,
+10564120,"Kukishiro, Mistbloom",7,5,5,"Fanfare: Gain Crest: Kukishiro, Mistbloom. Return 2 random cards from your hand to deck. Draw 2 cards.
+Rush","Fanfare: Gain Crest: Kukishiro, Mistbloom. Return 2 random cards from your hand to deck. Draw 2 cards.
+Rush",Havencraft,Follower,
+10134110,"Kuon, Fivefold Master",7,3,3,"Fanfare: Summon a Celestial Shikigami, Demonic Shikigami, and Paper Shikigami.
+Enhance (10): Destroy all allied Shikigami followers. Summon a Noble Shikigami.
+Super-Evolve: Select an allied Shikigami follower on the field and give it Storm.","Fanfare: Summon a Celestial Shikigami, Demonic Shikigami, and Paper Shikigami.
+Enhance (10): Destroy all allied Shikigami followers. Summon a Noble Shikigami.
+Super-Evolve: Select an allied Shikigami follower on the field and give it Storm.",Runecraft,Follower,
+10322210,Lair of Usurpation,1,0,0,"Engage: Destroy this card. Select a Mode to activate.
+1. Add a Gilded Blade and Gilded Necklace to your hand.
+2. Add a Gilded Goblet and Gilded Boots to your hand.",,Swordcraft,Spell,
+10112210,Lambent Cairn,2,0,0,"Fanfare: Add a Fairy to your hand. Combo (3) - Add a Deepwood Bounty to your hand.
+Engage: Destroy this card. Select an allied follower on the field and give it +1/+1.",,Forestcraft,Spell,
+10461120,"Lamretta, Sisterly Shepherd",2,1,4,"At the end of your turn, if this follower is evolved, deal 2 damage to all followers.
+Evolve: Give this follower ""Can't attack followers or leaders"" until the end of the turn.","At the end of your turn, if this follower is evolved, deal 2 damage to all followers.
+Evolve: Give this follower ""Can't attack followers or leaders"" until the end of the turn.",Havencraft,Follower,
+10163130,"Lapis, Shining Seraph",8,7,6,"Last Words: Gain Crest: Lapis, Shining Seraph.","Last Words: Gain Crest: Lapis, Shining Seraph.",Havencraft,Follower,
+10253110,"Laura, Cruel Commander",3,3,2,"Fanfare: Select another allied follower on the field and give it Bane.
+Super-Evolve: Select another allied follower on the field and give it Storm.","Fanfare: Select another allied follower on the field and give it Bane.
+Super-Evolve: Select another allied follower on the field and give it Storm.",Abysscraft,Follower,
+10001120,"Leah, Bellringer Angel",2,0,2,"Ward
+Last Words: Draw a card.
+Evolve: Draw a card.","Ward
+Last Words: Draw a card.
+Evolve: Draw a card.",Neutral,Follower,
+10534110,"Lhynkal, Wandering Fool",1,1,1,"Fanfare: Gain Crest: Lhynkal, Wandering Fool.
+Rush
+Super-Evolve: Add 10 copies of Lhynkal, Wandering Fool to your deck.","Fanfare: Gain Crest: Lhynkal, Wandering Fool.
+Rush
+Super-Evolve: Add 10 copies of Lhynkal, Wandering Fool to your deck.",Runecraft,Follower,
+10173130,"Liam, Crazed Creator",9,7,7,"Fanfare: Summon 3 copies of Enhanced Puppet.
+Evolve: Give all allied Puppetry followers on the field Ward and ""Last Words: Deal 2 damage to the enemy leader.""","Fanfare: Summon 3 copies of Enhanced Puppet.
+Evolve: Give all allied Puppetry followers on the field Ward and ""Last Words: Deal 2 damage to the enemy leader.""",Portalcraft,Follower,
+10553110,Lifestealer,9,7,7,"Fanfare: Transform all other followers on the field into copies of Skeleton.
+Whenever a Skeleton is destroyed, restore 1 defense to your leader.
+Evolve: Deal 1 damage to all other followers.","Fanfare: Transform all other followers on the field into copies of Skeleton.
+Whenever a Skeleton is destroyed, restore 1 defense to your leader.
+Evolve: Deal 1 damage to all other followers.",Abysscraft,Follower,
+10571310,Light of the Dewdrop,1,0,0,Draw a card.,,Portalcraft,Spell,
+10234110,"Lilanthim, Anathema of Edacity",8,5,5,"Aura
+Last Words: Earth Rite (2) - Summon a Lilanthim, Anathema of Edacity.
+Super-Evolve: Select 2 enemy followers on the field and destroy them.","Aura
+Last Words: Earth Rite (2) - Summon a Lilanthim, Anathema of Edacity.
+Super-Evolve: Select 2 enemy followers on the field and destroy them.",Runecraft,Follower,Anathema
+10052110,"Lilith, Enchanting Succubus",1,1,1,Last Words: Add a Bat to your hand.,Last Words: Add a Bat to your hand.,Abysscraft,Follower,
+10113110,"Lily, Crystalian Innocence",2,1,3,"Fanfare: Combo (3) - Select an enemy follower on the field and set its defense to 1.
+Evolve: Draw a card. Select an enemy follower on the field and deal it 1 damage.","Fanfare: Combo (3) - Select an enemy follower on the field and set its defense to 1.
+Evolve: Draw a card. Select an enemy follower on the field and deal it 1 damage.",Forestcraft,Follower,
+10212110,"Lionel, Ardent Elf",6,6,6,"Fanfare: Summon 2 copies of Baby Carbuncle.
+Ward","Fanfare: Summon 2 copies of Baby Carbuncle.
+Ward",Forestcraft,Follower,
+10374120,"Lishenna, Melody Manifest",4,2,4,"Fanfare: Add a Melodious Monody to your hand.
+Can't be destroyed by abilities.
+Evolve: Summon a White Psalm, New Revelation.","Fanfare: Add a Melodious Monody to your hand.
+Can't be destroyed by abilities.
+Evolve: Summon a White Psalm, New Revelation.",Portalcraft,Follower,
+10141140,Little Dragon Nanny,2,1,1,"Fanfare: Summon a Fire Drake Whelp.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Summon a Fire Drake Whelp.
+Evolve: Replicate the effects of this card's Fanfare ability.",Dragoncraft,Follower,
+10151130,Little Miss Bonemancer,3,1,2,Last Words: Summon 2 copies of Skeleton.,Last Words: Summon 2 copies of Skeleton.,Abysscraft,Follower,
+10143120,"Liu Feng, Goldennote Ward",3,3,3,"Fanfare: If you're in Overflow, evolve this follower.
+When this follower evolves, gain 1 max play point.","Fanfare: If you're in Overflow, evolve this follower.
+When this follower evolves, gain 1 max play point.",Dragoncraft,Follower,
+90074120,Lloyd,3,1,6,"Ward
+Your opponent can't select anything other than this card for abilities.","Ward
+Your opponent can't select anything other than this card for abilities.",Portalcraft,Follower,Puppetry
+90033310,Looking Smart!,1,0,0,Draw 2 cards. Deal 2 damage to a random enemy follower.,,Runecraft,Spell,Mysteria
+10172120,Lovestruck Puppeteer,2,2,2,"Fanfare: Add a Puppet to your hand.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Add a Puppet to your hand.
+Evolve: Replicate the effects of this card's Fanfare ability.",Portalcraft,Follower,
+10622110,Loyal Guard,3,3,3,"Enhance (4): Give this follower +2/+2.
+Ward
+Evolve: Select an enemy follower on the field and deal it 3 damage.","Enhance (4): Give this follower +2/+2.
+Ward
+Evolve: Select an enemy follower on the field and deal it 3 damage.",Swordcraft,Follower,
+10474110,"Lu Woh, Light Personified",5,6,6,"Fanfare: Do this 6 times: ""Deal 1 damage to a random enemy follower."" Give all followers in your opponent's hand +1/+0. Skybound Art - Gain Crest: Lu Woh, Light Personified.","Fanfare: Do this 6 times: ""Deal 1 damage to a random enemy follower."" Give all followers in your opponent's hand +1/+0. Skybound Art - Gain Crest: Lu Woh, Light Personified.",Portalcraft,Follower,
+10221310,Lucrative Deal,2,0,0,Draw 2 cards. Your opponent draws a card.,,Swordcraft,Spell,
+10673110,Ludicrous Ordnance,8,3,4,"Fanfare: Summon 2 copies of Ludicrous Ordnance.
+At the end of your turn, deal 3 damage split between all enemy followers.
+Evolve: Deal 3 damage split between all enemy followers.","Fanfare: Summon 2 copies of Ludicrous Ordnance.
+At the end of your turn, deal 3 damage split between all enemy followers.
+Evolve: Deal 3 damage split between all enemy followers.",Portalcraft,Follower,
+10261210,Luminous Censer,2,0,0,Engage (1): Destroy this card. Restore 4 defense to your leader.,,Havencraft,Spell,
+10122110,Luminous Commander,1,1,1,"Whenever an allied Officer follower enters the field, give this follower +1/+0 until the end of the turn.
+Evolve: Summon a Knight.","Whenever an allied Officer follower enters the field, give this follower +1/+0 until the end of the turn.
+Evolve: Summon a Knight.",Swordcraft,Follower,Luminous
+10122130,Luminous Lancetrooper,2,1,2,"Fanfare: Summon a Knight.
+Whenever an allied Officer follower enters the field, give it Rush.","Fanfare: Summon a Knight.
+Whenever an allied Officer follower enters the field, give it Rush.",Swordcraft,Follower,Luminous
+10122120,Luminous Magus,5,1,3,"Fanfare: Summon 3 copies of Steelclad Knight.
+Whenever an allied Officer follower enters the field, give it Ward.","Fanfare: Summon 3 copies of Steelclad Knight.
+Whenever an allied Officer follower enters the field, give it Ward.",Swordcraft,Follower,Luminous
+10572120,Lunar Bunny,2,1,1,"Ward
+When you play a spell, evolve this follower.","Ward
+When you play a spell, evolve this follower.",Portalcraft,Follower,
+10664120,"Lyanthoth, Eld Tome",9,9,9,"Fanfare: Select 3 other cards on the field and destroy them.
+Evolve: Reduce your faith's value by 10 to add a Depths of the Eld Tome to your hand.","Fanfare: Select 3 other cards on the field and destroy them.
+Evolve: Reduce your faith's value by 10 to add a Depths of the Eld Tome to your hand.",Havencraft,Follower,Encroacher
+10214120,"Lymaga, Untamed Wild",7,7,7,"Fanfare: Select 2 enemy followers on the field and give them ""Can't attack followers or leaders"" until the end of your opponent's turn.
+Super-Evolve: Select 2 enemy followers on the field and give them ""At the end of each turn, deal 1 damage to your leader and 2 damage to this follower.""","Fanfare: Select 2 enemy followers on the field and give them ""Can't attack followers or leaders"" until the end of your opponent's turn.
+Super-Evolve: Select 2 enemy followers on the field and give them ""At the end of each turn, deal 1 damage to your leader and 2 damage to this follower.""",Forestcraft,Follower,
+10121130,"Lyrala, Luminous Potionwright",3,1,2,"Fanfare: Summon a Steelclad Knight.
+Whenever an allied Officer follower enters the field, restore 1 defense to your leader.","Fanfare: Summon a Steelclad Knight.
+Whenever an allied Officer follower enters the field, restore 1 defense to your leader.",Swordcraft,Follower,Luminous
+10403120,"Lyria, Skydestined",2,1,1,"Enhance (8): Draw a follower that costs 7 or more. Recover 7 play points.
+Barrier","Enhance (8): Draw a follower that costs 7 or more. Recover 7 play points.
+Barrier",Neutral,Follower,
+10263310,Maddening Benison,4,0,0,Restore 10 defense to your leader. Gain Crest: Maddening Benison.,,Havencraft,Spell,
+10162130,"Maeve, Guardian of Earth",7,5,7,"Ward
+Last Words: Summon a copy of a random allied amulet destroyed this match with the highest base cost.","Ward
+Last Words: Summon a copy of a random allied amulet destroyed this match with the highest base cost.",Havencraft,Follower,
+90031210,Magic Sediment,1,0,0,"Earth Sigil
+Engage (1): Gain an earth sigil.",,Runecraft,Spell,Earth Sigil
+10161140,"Mainyu, Darkdweller",2,2,2,"Aura
+Whenever you Engage an amulet, give this follower +1/+0 until the end of the turn.","Aura
+Whenever you Engage an amulet, give this follower +1/+0 until the end of the turn.",Havencraft,Follower,
+10622310,Majestic Conquest,1,0,0,"Gain Crest: Majestic Conquest.
+Enhance (3): Delay the count of your Crest: Majestic Conquest by 2.",,Swordcraft,Spell,
+90041130,Majestic Megalorca,2,2,2,Rush,Rush,Dragoncraft,Follower,Marine
+10561310,Malice of the Mistbloom,3,0,0,Return a random card from your hand to deck. Draw 3 cards.,,Havencraft,Spell,
+10411120,"Manamel, Super Cutest",4,2,1,"At the end of your turn, evolve this follower.
+When this follower evolves, deal 1 damage to all enemy followers.","At the end of your turn, evolve this follower.
+When this follower evolves, deal 1 damage to all enemy followers.",Forestcraft,Follower,
+10351310,March of the Brutes,4,0,0,Deal 2 damage to 2 random enemy followers and the enemy leader.,,Abysscraft,Spell,
+10441120,"Mari, Meg's Bestie",2,2,2,"Activates in hand. Whenever a 3-base-cost allied follower super-evolves, set the cost of this card to 0 until the end of the turn.
+At the end of your turn, give a random super-evolved allied follower on the field +1/+1.","Activates in hand. Whenever a 3-base-cost allied follower super-evolves, set the cost of this card to 0 until the end of the turn.
+At the end of your turn, give a random super-evolved allied follower on the field +1/+1.",Dragoncraft,Follower,
+10142140,"Marion, Ravishing Dragonewt",4,3,3,"Fanfare: Select another allied follower on the field and give it +2/+2. If you're in Overflow, give +3/+3 instead.","Fanfare: Select another allied follower on the field and give it +2/+2. If you're in Overflow, give +3/+3 instead.",Dragoncraft,Follower,
+10571110,Marionette Master,4,3,3,"Fanfare: Summon an Enhanced Puppet and Puppet.
+Enhance (7): Give them Storm.","Fanfare: Summon an Enhanced Puppet and Puppet.
+Enhance (7): Give them Storm.",Portalcraft,Follower,
+10364120,"Marwynn, Despair Manifest",4,4,4,"Fanfare: Add a Torrent of Despair to your hand.
+Evolve: Gain Crest: Marwynn, Despair Manifest.","Fanfare: Add a Torrent of Despair to your hand.
+Evolve: Gain Crest: Marwynn, Despair Manifest.",Havencraft,Follower,
+90074110,Masterwork Artifact Ω,10,10,10,"Fanfare: Deal 5 damage to all enemy followers. Restore 5 defense to your leader.
+Storm
+Ward
+Aura","Fanfare: Deal 5 damage to all enemy followers. Restore 5 defense to your leader.
+Storm
+Ward
+Aura",Portalcraft,Follower,Artifact
+10442310,Maximum Love Bomb,2,0,0,"Select an enemy follower on the field, deal it 3 damage, and give it ""Can't attack followers or leaders"" until the end of your opponent's turn.",,Dragoncraft,Spell,
+10012110,"May, Journey Elf",1,1,1,Fanfare: Combo (3) - Select an enemy follower on the field and deal it 3 damage.,Fanfare: Combo (3) - Select an enemy follower on the field and deal it 3 damage.,Forestcraft,Follower,
+10072120,Mecha Cavalier,5,4,4,"Ward
+Evolve: Summon a Mecha Cavalier.
+Super-Evolve: Summon 2 instead.","Ward
+Evolve: Summon a Mecha Cavalier.
+Super-Evolve: Summon 2 instead.",Portalcraft,Follower,
+10071130,Mechanized Beast,6,4,9,"Bane
+Ward","Bane
+Ward",Portalcraft,Follower,
+10171140,Medical-Grade Assassin,3,2,2,"Fanfare: Add an Enhanced Puppet to your hand.
+Once on each of your turns, when an allied Puppetry follower enters the field, give it Bane.","Fanfare: Add an Enhanced Puppet to your hand.
+Once on each of your turns, when an allied Puppetry follower enters the field, give it Bane.",Portalcraft,Follower,
+10154120,"Medusa, Venomfang Royalty",7,3,7,"Rush
+Can attack 3 times per turn.
+Follower Strike: Destroy the opposing follower.","Rush
+Can attack 3 times per turn.
+Follower Strike: Destroy the opposing follower.",Abysscraft,Follower,
+10443110,"Meg, Girl Next Door",3,2,1,"Fanfare: Skybound Art - Super-evolve this follower.
+Whenever a 2-base-cost allied follower enters the field, give this follower Ward.","Fanfare: Skybound Art - Super-evolve this follower.
+Whenever a 2-base-cost allied follower enters the field, give this follower Ward.",Dragoncraft,Follower,
+90074310,Melodious Monody,1,0,0,Select an allied card on the field and destroy it. Deal 4 damage to a random enemy follower.,,Portalcraft,Spell,
+10231110,"Melvie, Adoring Witch",2,2,2,"Fanfare: Add a Witch's New Brew to your hand. If there's a super-evolved allied follower on the field, gain 2 earth sigils.","Fanfare: Add a Witch's New Brew to your hand. If there's a super-evolved allied follower on the field, gain 2 earth sigils.",Runecraft,Follower,
+10613110,Merciful Attendant,5,5,5,"Fanfare: Summon a Springbloom Fairy.
+Whenever an allied follower evolves, restore 1 defense to your leader.","Fanfare: Summon a Springbloom Fairy.
+Whenever an allied follower evolves, restore 1 defense to your leader.",Forestcraft,Follower,
+10531310,Metamorphosis of the Dawnblossom,2,0,0,Select a card in your hand and discard it. Draw 2 cards.,,Runecraft,Spell,
+10554110,Milteo & Luzen,6,3,3,"Fanfare: Reanimate (4) and Reanimate (2).
+When this follower evolves, destroy 6 other random followers.
+When this follower super-evolves, gain Crest: Milteo & Luzen.","Fanfare: Reanimate (4) and Reanimate (2).
+When this follower evolves, destroy 6 other random followers.
+When this follower super-evolves, gain Crest: Milteo & Luzen.",Abysscraft,Follower,
+90054110,"Mimi, Right Paw Hellhound",1,2,1,"Rush
+Last Words: Deal 2 damage to the enemy leader.","Rush
+Last Words: Deal 2 damage to the enemy leader.",Abysscraft,Follower,
+10152110,"Mino, Shrewd Reaper",2,2,1,"Enhance (4): Give this follower Rush and Bane.
+Last Words: Add a Skeleton to your hand.","Enhance (4): Give this follower Rush and Bane.
+Last Words: Add a Skeleton to your hand.",Abysscraft,Follower,
+10432120,"Mireille & Risette, Penitent Duo",5,3,3,"Fanfare: Summon a Mireille & Risette, Penitent Duo. Earth Rite (2) - Evolve it and this follower.","Fanfare: Summon a Mireille & Risette, Penitent Duo. Earth Rite (2) - Evolve it and this follower.",Runecraft,Follower,
+10173110,"Miriam, the Resolute",3,2,3,"Fanfare: Add a Gear of Ambition and Gear of Remembrance to your hand.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Add a Gear of Ambition and Gear of Remembrance to your hand.
+Evolve: Replicate the effects of this card's Fanfare ability.",Portalcraft,Follower,
+10514120,"Miroku, Swarmpetal",3,2,2,"Fanfare: Select a Mode to activate.
+1. Add 2 copies of Fairy to your hand.
+2. Recover 2 play points.
+3. Deal 3 damage split between all enemy followers.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Select a Mode to activate.
+1. Add 2 copies of Fairy to your hand.
+2. Recover 2 play points.
+3. Deal 3 damage split between all enemy followers.
+Evolve: Replicate the effects of this card's Fanfare ability.",Forestcraft,Follower,
+10051110,Mistress of the Fanged,6,3,6,"Storm
+Bane","Storm
+Bane",Abysscraft,Follower,
+10304110,"Mjerrabaine, Great Manifest",4,3,3,"Fanfare: Add a Great Testimony to your hand.
+Evolve: Gain Crest: Mjerrabaine, Great Manifest.","Fanfare: Add a Great Testimony to your hand.
+Evolve: Gain Crest: Mjerrabaine, Great Manifest.",Neutral,Follower,
+10611120,Monkey of Paradise,3,3,3,Fanfare: Combo (3) - Evolve this follower.,Fanfare: Combo (3) - Evolve this follower.,Forestcraft,Follower,
+10501110,Monster Litterateur,1,1,1,"Fanfare: If there's another 1-base-cost card on the field, give this follower +1/+1.","Fanfare: If there's another 1-base-cost card on the field, give this follower +1/+1.",Neutral,Follower,
+10421130,"Mordred, Illusory Lion",3,2,1,"Storm
+Evolve: Summon an Arthur, Staunch Dragon.","Storm
+Evolve: Summon an Arthur, Staunch Dragon.",Swordcraft,Follower,
+10611110,Motherly Forestdweller,4,4,4,"Fanfare: Add a Springbloom Fairy to your hand.
+Evolve: Summon a Springbloom Fairy.","Fanfare: Add a Springbloom Fairy to your hand.
+Evolve: Summon a Springbloom Fairy.",Forestcraft,Follower,
+10132110,"Ms. Miranda, Adored Academic",2,2,2,"Fanfare: Spellboost your hand.
+Evolve: Select an enemy follower on the field and deal it 3 damage. Spellboost your hand.","Fanfare: Spellboost your hand.
+Evolve: Select an enemy follower on the field and deal it 3 damage. Spellboost your hand.",Runecraft,Follower,Mysteria
+10601110,Muddled Onlooker,2,2,1,Last Words: Deal 1 damage to the enemy leader.,Last Words: Deal 1 damage to the enemy leader.,Neutral,Follower,
+10442120,"Mugen, Steel-Bodied Honesty",8,10,8,"Fanfare: Super Skybound Art - Give this follower Storm.
+Super-Evolve: Select 2 enemy followers on the field and destroy them.","Fanfare: Super Skybound Art - Give this follower Storm.
+Super-Evolve: Select 2 enemy followers on the field and destroy them.",Dragoncraft,Follower,
+10153130,"Mukan, Shadowcrypt Ward",4,3,3,"Fanfare: Necromancy (8) - Evolve this follower.
+Whenever an allied Departed follower enters the field, give it Bane.
+When this follower evolves, summon a Ghost.","Fanfare: Necromancy (8) - Evolve this follower.
+Whenever an allied Departed follower enters the field, give it Bane.
+When this follower evolves, summon a Ghost.",Abysscraft,Follower,
+10672310,Myriad Designs,6,0,0,"Summon a Ludicrous Ordnance, Shoddy Plaything, and Substandard Puppet and give them +0/+1.",,Portalcraft,Spell,
+10151120,Nameless Demon,2,2,2,Evolve: Summon 2 copies of Bat.,Evolve: Summon 2 copies of Bat.,Abysscraft,Follower,
+10342210,Nation of Disdain,2,0,0,"Countdown (4)
+Engage (1): Deal 1 damage to all followers.",,Dragoncraft,Amulet,
+10622120,Navy Cat,8,6,6,"Fanfare: Destroy all enemy followers with 1 defense.
+Storm","Fanfare: Destroy all enemy followers with 1 defense.
+Storm",Swordcraft,Follower,
+10453110,"Nehan, Dispenser of Samsara",6,2,4,"Fanfare: Evolve all unevolved allied followers on the field. Deal 2 damage to your leader.
+Drain","Fanfare: Evolve all unevolved allied followers on the field. Deal 2 damage to your leader.
+Drain",Abysscraft,Follower,
+10243110,"Neptune, Arbiter of Tides",7,5,5,"Fanfare: Gain Crest: Neptune, Arbiter of Tides. Summon 2 copies of Majestic Megalorca.
+Ward
+Super-Evolve: Summon 2 copies of Majestic Megalorca.","Fanfare: Gain Crest: Neptune, Arbiter of Tides. Summon 2 copies of Majestic Megalorca.
+Ward
+Super-Evolve: Summon 2 copies of Majestic Megalorca.",Dragoncraft,Follower,
+10573110,Neuron Disrupter,5,4,2,"Fanfare: Recover X play points. X is the number of other allied followers on the field.
+Rush
+Last Words: Draw 2 cards.","Fanfare: Recover X play points. X is the number of other allied followers on the field.
+Rush
+Last Words: Draw 2 cards.",Portalcraft,Follower,
+10572110,New-Age Cartographer,4,2,2,"Fanfare: Add an Ominous Artifact β to your hand.
+Super-Evolve: Select an Artifact follower in your hand that costs 5 or less and summon an exact copy of it.","Fanfare: Add an Ominous Artifact β to your hand.
+Super-Evolve: Select an Artifact follower in your hand that costs 5 or less and summon an exact copy of it.",Portalcraft,Follower,
+10452110,"Nezha, Soaring War God",6,8,6,"Rush
+At the end of your turn, deal 4 damage to a random enemy follower, then deal 2 damage to a random enemy follower.","Rush
+At the end of your turn, deal 4 damage to a random enemy follower, then deal 2 damage to a random enemy follower.",Abysscraft,Follower,
+10051120,Night Fiend,3,4,3,Fanfare: Deal 1 damage to your leader.,Fanfare: Deal 1 damage to your leader.,Abysscraft,Follower,
+10221120,Nightshadow Ninja Master,5,4,5,Ambush,Ambush,Swordcraft,Follower,
+10172130,"Noah, Thread of Death",6,5,6,Fanfare: Add 3 copies of Puppet to your hand. Give all Puppetry followers in your hand +1/+0.,Fanfare: Add 3 copies of Puppet to your hand. Give all Puppetry followers in your hand +1/+0.,Portalcraft,Follower,
+90034120,Noble Shikigami,10,1,1,"When this follower enters the field, give it +X/+Y. X/Y is the total base attack/defense of allied Shikigami followers destroyed this turn.
+Ward
+Aura","When this follower enters the field, give it +X/+Y. X/Y is the total base attack/defense of allied Shikigami followers destroyed this turn.
+Ward
+Aura",Runecraft,Follower,Shikigami
+10624110,"Noel IV, Ruthless Warlord",6,4,5,"Fanfare: Summon a Fearless Soldier and give it Bane.
+Enhance (7): Summon a Fearless Soldier and give it Drain.
+Enhance (8): Summon a Fearless Soldier and give it Storm.
+Super-Evolve: Give all other allied followers on the field +1/+1.","Fanfare: Summon a Fearless Soldier and give it Bane.
+Enhance (7): Summon a Fearless Soldier and give it Drain.
+Enhance (8): Summon a Fearless Soldier and give it Storm.
+Super-Evolve: Give all other allied followers on the field +1/+1.",Swordcraft,Follower,
+90023110,"Nonja, Silent Maid",2,2,2,"Fanfare: If there's an allied Prim, Princess's Picnic on the field, give this follower +1/+1 and Bane.
+Ward","Fanfare: If there's an allied Prim, Princess's Picnic on the field, give this follower +1/+1 and Bane.
+Ward",Swordcraft,Follower,Officer
+10234120,"Norman, Adamant Alchemist",6,5,5,"Fanfare: Earth Rite (1) - Select a Mode to activate.
+1. Summon a Guardian Golem and give it Barrier.
+2. Draw 3 cards.
+3. Restore 4 defense to your leader.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Earth Rite (1) - Select a Mode to activate.
+1. Summon a Guardian Golem and give it Barrier.
+2. Draw 3 cards.
+3. Restore 4 defense to your leader.
+Evolve: Replicate the effects of this card's Fanfare ability.",Runecraft,Follower,Mysteria
+10613310,Nurturing Eld Lance,3,0,0,"Select a Mode to activate.
+1. Destroy a random enemy follower with the highest attack.
+2. Summon a Springbloom Fairy.",,Forestcraft,Spell,Encroacher
+10342120,Ocean Rider,3,1,1,"Fanfare: Summon a Majestic Megalorca. If you're in Overflow, summon 2 instead.
+Whenever an allied Marine follower enters the field, give it Ward.","Fanfare: Summon a Majestic Megalorca. If you're in Overflow, summon 2 instead.
+Whenever an allied Marine follower enters the field, give it Ward.",Dragoncraft,Follower,
+10324120,"Octrice, Hollowness Manifest",3,3,3,"Fanfare: Gain Crest: Octrice, Hollowness Manifest.
+Evolve: Add a Gilded Blade and Gilded Necklace to your hand.","Fanfare: Gain Crest: Octrice, Hollowness Manifest.
+Evolve: Add a Gilded Blade and Gilded Necklace to your hand.",Swordcraft,Follower,
+10204110,"Odin, Twilit Fate",7,4,2,"Fanfare: Select an enemy card on the field and banish it.
+Storm","Fanfare: Select an enemy card on the field and banish it.
+Storm",Neutral,Follower,
+10104110,"Olivia, Heroic Dark Angel",7,4,4,"Fanfare: Draw 2 cards. Restore 2 defense to your leader. Recover 2 play points.
+Super-Evolve: Select another unevolved allied follower on the field and super-evolve it.","Fanfare: Draw 2 cards. Restore 2 defense to your leader. Recover 2 play points.
+Super-Evolve: Select another unevolved allied follower on the field and super-evolve it.",Neutral,Follower,
+10524110,"Oluon, Raging Chariot",9,7,7,"At the end of your turn, if this follower is unevolved, deal 7 damage to all enemy followers. If it's evolved, do this 3 times: ""Deal 7 damage to another random ally or enemy.""","At the end of your turn, if this follower is unevolved, deal 7 damage to all enemy followers. If it's evolved, do this 3 times: ""Deal 7 damage to another random ally or enemy.""",Swordcraft,Follower,
+10604110,"Omegotep, the Dreaded One",9,4,4,"Fanfare: Activate 2 random abilities from the following.
+1. Destroy a random enemy follower.
+2. Deal 2 damage to the enemy leader.
+3. Recover 2 play points.
+4. Give this follower +4/+4 and activate its Fanfare ability.
+Super-Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Activate 2 random abilities from the following.
+1. Destroy a random enemy follower.
+2. Deal 2 damage to the enemy leader.
+3. Recover 2 play points.
+4. Give this follower +4/+4 and activate its Fanfare ability.
+Super-Evolve: Replicate the effects of this card's Fanfare ability.",Neutral,Follower,Encroacher
+90073110,Ominous Artifact α,5,3,5,"Fuse: Ominous Artifact β and Ominous Artifact γ
+When you've Fused both to this card, transform it into a Masterwork Artifact Ω.
+At the end of your turn, restore 3 defense to your leader.","Fuse: Ominous Artifact β and Ominous Artifact γ
+When you've Fused both to this card, transform it into a Masterwork Artifact Ω.
+At the end of your turn, restore 3 defense to your leader.",Portalcraft,Follower,Artifact
+90073120,Ominous Artifact β,5,4,4,"At the end of your turn, deal 3 damage to the enemy leader.","At the end of your turn, deal 3 damage to the enemy leader.",Portalcraft,Follower,Artifact
+90073130,Ominous Artifact γ,5,5,3,"At the end of your turn, deal 3 damage to all enemy followers.","At the end of your turn, deal 3 damage to all enemy followers.",Portalcraft,Follower,Artifact
+90054130,One-Tailed Fox,2,2,3,"Rush
+Ward
+Last Words: Give a random allied Ginsetsu & Yuzuki, Twin Calamities on the field +1/+0.","Rush
+Ward
+Last Words: Give a random allied Ginsetsu & Yuzuki, Twin Calamities on the field +1/+0.",Abysscraft,Follower,
+90032110,Onion Patch,1,1,1,"Rush
+Strike: Spellboost your hand.","Rush
+Strike: Spellboost your hand.",Runecraft,Follower,
+10114120,Opulent Rose Queen,9,6,6,"Fanfare: Transform all Forestcraft cards in your hand that cost 2 or less into copies of Bramble Burst.
+Ward
+Can attack 2 times per turn.","Fanfare: Transform all Forestcraft cards in your hand that cost 2 or less into copies of Bramble Burst.
+Ward
+Can attack 2 times per turn.",Forestcraft,Follower,
+10174120,"Orchis, Newfound Heart",8,5,5,"Fanfare: Summon a Lloyd.
+Whenever an allied Puppetry follower enters the field, give it Storm and Bane.
+Super-Evolve: Summon 2 copies of Enhanced Puppet.","Fanfare: Summon a Lloyd.
+Whenever an allied Puppetry follower enters the field, give it Storm and Bane.
+Super-Evolve: Summon 2 copies of Enhanced Puppet.",Portalcraft,Follower,
+10153120,"Orthrus, Hellhound Blader",2,2,2,"Fanfare: Gain 2 shadows.
+Ward
+Evolve: Necromancy (4) - Do this 2 times: ""Deal 2 damage to a random enemy follower.""","Fanfare: Gain 2 shadows.
+Ward
+Evolve: Necromancy (4) - Do this 2 times: ""Deal 2 damage to a random enemy follower.""",Abysscraft,Follower,
+90043110,Otohime's Bodyguard,3,2,2,"Storm
+Ward","Storm
+Ward",Dragoncraft,Follower,Marine
+10233110,"Owen, Mysterian Swordsman",3,3,3,"Ward
+Clash: Spellboost your hand.
+Evolve: Draw 2 followers.","Ward
+Clash: Spellboost your hand.
+Evolve: Draw 2 followers.",Runecraft,Follower,Mysteria
+10131130,Owl Summoner,3,3,3,"Fanfare: Gain an earth sigil.
+Evolve: Select an enemy follower on the field and deal it 5 damage.","Fanfare: Gain an earth sigil.
+Evolve: Select an enemy follower on the field and deal it 5 damage.",Runecraft,Follower,
+10163210,Pact of the Beast Princess,2,0,0,"Countdown (2)
+Last Words: Summon a Holyflame Tiger.
+Engage (1): Advance this amulet's count by 1.",,Havencraft,Amulet,
+90031130,Paper Shikigami,2,2,1,"Rush
+Last Words: Spellboost your hand.","Rush
+Last Words: Spellboost your hand.",Runecraft,Follower,Shikigami
+10233310,Pascale's Dance,2,0,0,Gain an earth sigil. Gain Crest: Pascale's Dance.,,Runecraft,Spell,
+10662120,Pegasus Rider,6,5,5,"Fanfare: Summon a Holy Falcon.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Summon a Holy Falcon.
+Evolve: Replicate the effects of this card's Fanfare ability.",Havencraft,Follower,
+10133120,"Penelope, Potions Prodigy",2,2,2,"Fanfare: Gain 2 earth sigils.
+Super-Evolve: Draw 2 cards. Restore 2 defense to your leader. Gain 2 earth sigils.","Fanfare: Gain 2 earth sigils.
+Super-Evolve: Draw 2 cards. Restore 2 defense to your leader. Gain 2 earth sigils.",Runecraft,Follower,
+10322120,Peppy Scout,5,3,3,"Fanfare: Summon a random Swordcraft follower that costs 3 or less from your deck.
+Evolve: Select another allied follower on the field and give it +2/+2.","Fanfare: Summon a random Swordcraft follower that costs 3 or less from your deck.
+Evolve: Select another allied follower on the field and give it +2/+2.",Swordcraft,Follower,
+10103110,"Phildau, Lionheart Ward",2,2,2,Evolve: Select an enemy follower on the field and destroy it.,Evolve: Select an enemy follower on the field and destroy it.,Neutral,Follower,
+10431110,"Philosophia, Cryptic Sophist",3,1,4,Fanfare: Draw a spell.,Fanfare: Draw a spell.,Runecraft,Follower,
+10561110,Prescient Priestess,3,2,2,"Fanfare: Select an enemy follower on the field and deal it 2 damage.
+Ward
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Select an enemy follower on the field and deal it 2 damage.
+Ward
+Evolve: Replicate the effects of this card's Fanfare ability.",Havencraft,Follower,
+10223120,"Prim, Princess's Picnic",2,1,1,"Fanfare: Add a Nonja, Silent Maid to your hand.
+Ambush
+Super-Evolve: Give all other allied followers on the field +1/+1.","Fanfare: Add a Nonja, Silent Maid to your hand.
+Ambush
+Super-Evolve: Give all other allied followers on the field +1/+1.",Swordcraft,Follower,
+10443310,Primal Beast Absorption,5,0,0,"Select an enemy card on the field, banish it, and add a copy of it to your hand.",,Dragoncraft,Spell,
+10661110,Prostrating Coward,5,4,5,"When this follower enters the field, restore 2 defense to your leader.
+Bane
+Ward","When this follower enters the field, restore 2 defense to your leader.
+Bane
+Ward",Havencraft,Follower,
+10562210,Protective Shell,2,0,0,Engage: Destroy this card. Draw X cards. X is the number of allied followers on the field with Ward.,,Havencraft,Spell,
+10511110,Prudent Tanuki,2,1,3,"Ambush
+Evolve: Draw a card.","Ambush
+Evolve: Draw a card.",Forestcraft,Follower,
+90071110,Puppet,0,1,1,"Rush
+At the end of your opponent's turn, destroy this card.","Rush
+At the end of your opponent's turn, destroy this card.",Portalcraft,Follower,Puppetry
+10271120,Puppet Cat,1,1,1,"Fanfare: If there's a super-evolved allied follower on the field, add a Puppet to your hand and give it +3/+0.
+Rush","Fanfare: If there's a super-evolved allied follower on the field, add a Puppet to your hand and give it +3/+0.
+Rush",Portalcraft,Follower,
+10071120,Puppet Lancer,2,2,1,Fanfare: Add an Enhanced Puppet to your hand.,Fanfare: Add an Enhanced Puppet to your hand.,Portalcraft,Follower,
+10171310,Puppet Shield,3,0,0,Summon 2 copies of Enhanced Puppet.,,Portalcraft,Spell,
+10072210,Puppet Theater,2,0,0,"Fanfare: Add a Puppet to your hand.
+Countdown (2)
+At the end of your turn, add a Puppet to your hand.",,Portalcraft,Amulet,
+10242210,Pyrewyrm Blade,1,0,0,"Engage (1): Destroy this card. Select an allied follower on the field and give it +1/+1 and ""Last Words: Summon a Pyrewyrm Blade.""",,Dragoncraft,Spell,
+10001130,Quake Goliath,4,4,5,Ward,Ward,Neutral,Follower,
+10512310,Quiet Encouragement,3,0,0,Deal 1 damage to all enemies. Combo (3) - Deal 2 damage instead.,,Forestcraft,Spell,
+10222120,"Rackhir, Ordinary Knight",4,3,3,"Fanfare: Draw a spell.
+Evolve: Recover 2 play points.","Fanfare: Draw a spell.
+Evolve: Recover 2 play points.",Swordcraft,Follower,
+10161130,Radiant Guiding Angel,5,2,3,Fanfare: Draw 2 cards. Restore 2 defense to your leader.,Fanfare: Draw 2 cards. Restore 2 defense to your leader.,Havencraft,Follower,
+10131310,Radiant Rainbow,2,0,0,Select a card in your hand with On Spellboost and spellboost it. Draw a card.,,Runecraft,Spell,
+10153310,Rage of Serpents,2,0,0,Select an enemy follower on the field or the enemy leader and deal it 3 damage. Deal 2 damage to your leader.,,Abysscraft,Spell,
+10341310,Raging Lightning,3,0,0,"Deal 5 damage to all followers with the highest defense. If you're in Overflow, deal 3 damage to all leaders with the highest defense.",,Dragoncraft,Spell,
+10334120,"Raio, Elimination Manifest",9,9,9,Fanfare: Reduce the cost of all followers in your deck by 3. Transform a random spell in your hand into an Ersatz Elimination. It costs 0 until the end of the turn.,Fanfare: Reduce the cost of all followers in your deck by 3. Transform a random spell in your hand into an Ersatz Elimination. It costs 0 until the end of the turn.,Runecraft,Follower,
+10174130,"Ralmia, Sonic Boom",8,2,2,"Fanfare: Select 3 Artifact followers in your hand that cost 5 or less and summon an exact copy of each.
+Super-Evolve: Give all allied Artifact followers on the field +1/+1.","Fanfare: Select 3 Artifact followers in your hand that cost 5 or less and summon an exact copy of each.
+Super-Evolve: Give all allied Artifact followers on the field +1/+1.",Portalcraft,Follower,
+10421110,"Randall, Feet Fighter",2,3,2,Enhance (5): Give this follower Storm.,Enhance (5): Give this follower Storm.,Swordcraft,Follower,
+10123310,Ravening Tentacles,7,0,0,Select an enemy follower on the field or the enemy leader and deal it 5 damage. Restore 5 defense to your leader.,,Swordcraft,Spell,Levin
+10251110,"Rayvn, the Silver Bullet",5,3,4,"Bane
+Evolve: Select 2 enemy followers on the field and destroy them. Deal 2 damage to your leader.","Bane
+Evolve: Select 2 enemy followers on the field and destroy them. Deal 2 damage to your leader.",Abysscraft,Follower,
+10151310,Reaper's Deathslash,1,0,0,Select an allied and enemy follower on the field and destroy them.,,Abysscraft,Spell,
+10632310,Reaved Order,1,0,0,Select an allied Crystalspawn on the field and destroy it. Draw 2 Runecraft followers.,,Runecraft,Spell,
+90061130,Regal Falcon,6,4,4,Storm,Storm,Havencraft,Follower,
+10203110,"Reina, Angelic Partner",7,5,5,Evolve: Evolve all unevolved allied followers on the field.,Evolve: Evolve all unevolved allied followers on the field.,Neutral,Follower,
+10032110,"Remi & Rami, Two-Faced Witch",4,4,4,"Fanfare: Earth Rite (1) - Summon a Guardian Golem.
+Super-Evolve: Select an allied Golem follower on the field, evolve it, and give it +3/+3.","Fanfare: Earth Rite (1) - Summon a Guardian Golem.
+Super-Evolve: Select an allied Golem follower on the field, evolve it, and give it +3/+3.",Runecraft,Follower,
+90024310,Remnant of Hollowness,1,0,0,Deal 4 damage split between all enemies.,,Swordcraft,Spell,
+10162120,"Reno, Luxwing Featherfolk",4,3,5,"Clash: Deal 1 damage to the enemy leader.
+Super-Evolve: Give this follower ""Can attack 2 times per turn.""","Clash: Deal 1 damage to the enemy leader.
+Super-Evolve: Give this follower ""Can attack 2 times per turn.""",Havencraft,Follower,
+10641110,Resolute Dragonewt,3,2,3,"Fanfare: Select a card in your hand and discard it.
+Last Words: Draw 2 cards.","Fanfare: Select a card in your hand and discard it.
+Last Words: Draw 2 cards.",Dragoncraft,Follower,
+10563210,Resolve of the Mistbloom,3,0,0,"Fanfare: Select an enemy follower on the field and deal it 5 damage.
+Engage: Destroy this card. Return 2 random cards from your hand to deck. Draw 2 cards.",,Havencraft,Spell,
+10572310,Resurrection Tuner,1,0,0,Select a card in your hand and discard it. Add a copy each of 2 random differently named allied followers destroyed this match to your hand without revealing them.,,Portalcraft,Spell,
+10323310,Returning Slash,1,0,0,"Fuse: Loot cards
+Deal 2 damage to a random enemy follower. Add a Gilded Blade to your hand. If you've Fused to this card, draw a card.",,Swordcraft,Spell,
+10651110,Reverent Demon,2,2,2,Last Words: Draw a card. Deal 1 damage to your leader.,Last Words: Draw a card. Deal 1 damage to your leader.,Abysscraft,Follower,
+10553310,Rigor of the Nightblossom,2,0,0,Gain Crest: Rigor of the Nightblossom.,,Abysscraft,Spell,
+10332310,Risky Amalgamation,4,0,0,Summon a Guardian Golem and Clay Golem.,,Runecraft,Spell,
+10542310,Roar of Prominence,4,0,0,Deal X damage to all followers. X is the number of followers on the field.,,Dragoncraft,Spell,
+10164110,"Rodeo, Anathema of Judgment",7,5,5,"Fanfare: Select a card in your hand and discard it. Summon 3 random differently named amulets that cost 3 or less from your deck.
+Super-Evolve: Destroy a random enemy follower with the highest attack. Deal 1 damage to all enemy followers.","Fanfare: Select a card in your hand and discard it. Summon 3 random differently named amulets that cost 3 or less from your deck.
+Super-Evolve: Destroy a random enemy follower with the highest attack. Deal 1 damage to all enemy followers.",Havencraft,Follower,Anathema
+10163120,"Ronavero, Darkhaven Ward",4,1,3,"Ambush
+Evolve: Select an enemy follower on the field and destroy it.","Ambush
+Evolve: Select an enemy follower on the field and destroy it.",Havencraft,Follower,
+10223110,"Rosé, Princess Knight",3,3,2,"Enhance (5): Draw a Swordcraft follower that costs 2 or less and set its cost to 0.
+Rush
+Follower Strike: If the opposing follower is damaged, destroy it.","Enhance (5): Draw a Swordcraft follower that costs 2 or less and set its cost to 0.
+Rush
+Follower Strike: If the opposing follower is damaged, destroy it.",Swordcraft,Follower,
+90051140,Rotting Zombie,3,2,2,Last Words: Summon a Rotting Zombie and remove Last Words from it.,Last Words: Summon a Rotting Zombie and remove Last Words from it.,Abysscraft,Follower,Departed
+10022110,Royal Coachwoman,2,1,2,Last Words: Summon a Knight.,Last Words: Summon a Knight.,Swordcraft,Follower,
+10101110,"Ruby, Greedy Cherub",2,2,2,Fanfare: Select a card in your hand and return it to deck. Draw a card.,Fanfare: Select a card in your hand and return it to deck. Draw a card.,Neutral,Follower,
+10543110,Ruinbringer,7,5,5,"Super-Evolve: Banish all 1-, 3-, 5-, 7-, and 9-cost cards from your deck. Deal X damage split between all enemy followers. X is the number of cards you banished.","Super-Evolve: Banish all 1-, 3-, 5-, 7-, and 9-cost cards from your deck. Deal X damage split between all enemy followers. X is the number of cards you banished.",Dragoncraft,Follower,
+10172110,"Rukina, Resistance Leader",4,3,3,"Fanfare: Add a Gear of Ambition and Gear of Remembrance to your hand.
+Evolve: Summon a Striker Artifact.","Fanfare: Add a Gear of Ambition and Gear of Remembrance to your hand.
+Evolve: Summon a Striker Artifact.",Portalcraft,Follower,
+10354120,Rulenye & Valnareik,7,5,5,"Fanfare: Select a Mode to activate.
+1. Add a Scream Diffusion to your hand.
+2. Add a Wings of Desire to your hand.","Fanfare: Select a Mode to activate.
+1. Add a Scream Diffusion to your hand.
+2. Add a Wings of Desire to your hand.",Abysscraft,Follower,
+10104120,Ruler of Cocytus,10,10,10,Fanfare: Replace your deck with the Apocalypse Deck.,Fanfare: Replace your deck with the Apocalypse Deck.,Neutral,Follower,
+10431310,Rune Portal,7,0,0,Deal 6 damage to all enemy followers. Restore 3 defense to your leader.,,Runecraft,Spell,
+10131110,Runeblade Conductor,5,1,1,"On Spellboost: Give this follower +1/+1.
+Fanfare: Select an enemy follower on the field and deal it X damage. X is this follower's attack.","On Spellboost: Give this follower +1/+1.
+Fanfare: Select an enemy follower on the field and deal it X damage. X is this follower's attack.",Runecraft,Follower,
+10022120,"Rusty, Luxcard Trickster",3,3,3,"Super-Evolve: Draw all copies of Rusty, Luxcard Trickster and give them Storm.","Super-Evolve: Draw all copies of Rusty, Luxcard Trickster and give them Storm.",Swordcraft,Follower,
+10623310,Ruthless Eld Sword,1,0,0,"Select a Mode to activate.
+1. Draw a card.
+2. Deal 3 damage to a random enemy follower.
+Enhance (3): Activate all of them instead.",,Swordcraft,Spell,Encroacher
+10062120,Sacred Griffon,8,6,8,"Ward
+Whenever you Engage an amulet, give this follower Storm.","Ward
+Whenever you Engage an amulet, give this follower Storm.",Havencraft,Follower,
+10644110,"Sagatsumatsu, Fair Beheader",7,5,4,"Fanfare: Select a card in your hand and discard it. Add 2 copies of Spilling Red to your hand.
+Storm
+Bane
+Aura","Fanfare: Select a card in your hand and discard it. Add 2 copies of Spilling Red to your hand.
+Storm
+Bane
+Aura",Dragoncraft,Follower,
+10132310,Sagelight Teachings,3,0,0,"Select a Mode to activate.
+1. Gain 4 earth sigils.
+2. Restore 4 defense to your leader.
+3. Earth Rite (3) - Deal 4 damage to all enemy followers.",,Runecraft,Spell,
+10563110,Saint of Rehabilitation,5,2,3,"Fanfare: Restore 1 defense to your leader.
+Ward
+During your turn, whenever your leader's defense is restored, summon a Fox of Purity.
+Evolve: Replicate the effects of this card's Fanfare ability.
+Super-Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Restore 1 defense to your leader.
+Ward
+During your turn, whenever your leader's defense is restored, summon a Fox of Purity.
+Evolve: Replicate the effects of this card's Fanfare ability.
+Super-Evolve: Replicate the effects of this card's Fanfare ability.",Havencraft,Follower,
+10164130,"Salefa, Guardian of Water",5,3,3,"Fanfare: Restore 3 defense to your leader.
+Ward
+Evolve: Deal 3 damage to all enemy followers.","Fanfare: Restore 3 defense to your leader.
+Ward
+Evolve: Deal 3 damage to all enemy followers.",Havencraft,Follower,
+10404110,"Sandalphon, Primarch Successor",6,7,6,"Activates in deck. At the start of your turn, if allied followers have evolved at least 6 times this match, Invoke this card.
+When this card is Invoked, gain Crest: Sandalphon, Primarch Successor and return this card to hand.
+Fanfare: Super Skybound Art - Do this 5 times: ""Deal 2 damage to a random enemy.""","Activates in deck. At the start of your turn, if allied followers have evolved at least 6 times this match, Invoke this card.
+When this card is Invoked, gain Crest: Sandalphon, Primarch Successor and return this card to hand.
+Fanfare: Super Skybound Art - Do this 5 times: ""Deal 2 damage to a random enemy.""",Neutral,Follower,
+10462110,"Sara, Graphos's Chosen",4,4,5,"Enhance (6): Give this follower +0/+10.
+Ward
+Evolve: Select a damaged enemy follower on the field and destroy it.","Enhance (6): Give this follower +0/+10.
+Ward
+Evolve: Select a damaged enemy follower on the field and destroy it.",Havencraft,Follower,
+10162110,"Sarissa, Luxspear Al-mi'raj",2,2,2,"Whenever an allied follower with Ward is destroyed, give this follower +1/+1.
+Evolve: Give this follower Barrier.","Whenever an allied follower with Ward is destroyed, give this follower +1/+1.
+Evolve: Give this follower Barrier.",Havencraft,Follower,
+10614120,"Sathanid, Eld Lance",1,1,1,"Fanfare: Reduce your faith's value by 10 to add a Depths of the Eld Lance to your hand and give your faith ""Whenever an allied follower evolves, deal 1 damage to all enemies.""
+Drain","Fanfare: Reduce your faith's value by 10 to add a Depths of the Eld Lance to your hand and give your faith ""Whenever an allied follower evolves, deal 1 damage to all enemies.""
+Drain",Forestcraft,Follower,Encroacher
+10452120,"Satyr, Open-Hearted Rover",3,3,3,"Fanfare: If there's an evolved allied follower on the field, evolve this follower.
+Aura","Fanfare: If there's an evolved allied follower on the field, evolve this follower.
+Aura",Abysscraft,Follower,
+90054310,Scream Diffusion,0,0,0,Summon 2 copies of Rulenye & Valnareik and give them Rush.,,Abysscraft,Spell,
+10353310,Screaming and Loathing,3,0,0,"Select 2 Modes to activate.
+1. Recover 1 play point.
+2. Draw a follower.
+3. Draw a 3-cost spell.
+4. Deal 4 damage to a random enemy follower.",,Abysscraft,Spell,
+10662210,Scripture of Salvation,2,0,0,"Countdown (4)
+Last Words: Draw 2 cards. Deal 2 damage to all enemy followers. Restore 2 defense to your leader.",,Havencraft,Amulet,
+10041110,Searing Firenewt,2,2,2,Fanfare: Select an enemy follower on the field and deal it 1 damage.,Fanfare: Select an enemy follower on the field and deal it 1 damage.,Dragoncraft,Follower,
+10242120,Seasoned Merman,5,3,3,"Fanfare: Summon 2 copies of Majestic Megalorca.
+Evolve: Summon a Majestic Megalorca.","Fanfare: Summon 2 copies of Majestic Megalorca.
+Evolve: Summon a Majestic Megalorca.",Dragoncraft,Follower,
+10012120,"Selwyn, Sonic Archer",7,4,6,"Storm
+Super-Evolve: Select an enemy follower on the field and return it to hand.","Storm
+Super-Evolve: Select an enemy follower on the field and return it to hand.",Forestcraft,Follower,
+10424120,"Seofon, Leader of the Eternals",4,4,3,Fanfare: Skybound Art - Evolve all unevolved allied followers on the field. Super Skybound Art - Super-evolve them instead.,Fanfare: Skybound Art - Evolve all unevolved allied followers on the field. Super Skybound Art - Super-evolve them instead.,Swordcraft,Follower,
+10102310,Seraphic Tidings,3,0,0,Draw 2 cards.,,Neutral,Spell,
+10161210,Serene Sanctuary,1,0,0,"Countdown (3)
+Last Words: Draw 2 cards.
+Engage (1): Advance this amulet's count by 1.",,Havencraft,Amulet,
+10522310,Serenity's Shield,2,0,0,"Summon 2 copies of Knight.
+Enhance (4): Summon 4 instead.",,Swordcraft,Spell,
+10221110,"Seria, Gunslinger Maid",2,2,1,Fanfare: Deal 1 damage to 2 random enemy followers.,Fanfare: Deal 1 damage to 2 random enemy followers.,Swordcraft,Follower,
+90004120,Servant of Cocytus,1,13,13,,,Neutral,Follower,
+10152210,Shadowcrypt Memorial,3,0,0,"Fanfare: Gain 2 shadows.
+Engage: Destroy this card. Summon 2 copies of Ghost.",,Abysscraft,Spell,
+10554120,"Shakdoh, Nightblossom",10,4,4,"Fanfare: Do this 2 times: ""Return your hand to deck. Draw X cards. X is the number of cards you returned. Then, if you have at least 4 cards with the same cost in your hand, deal 4 damage to all enemies.""
+Super-Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Do this 2 times: ""Return your hand to deck. Draw X cards. X is the number of cards you returned. Then, if you have at least 4 cards with the same cost in your hand, deal 4 damage to all enemies.""
+Super-Evolve: Replicate the effects of this card's Fanfare ability.",Abysscraft,Follower,
+10354110,"Sham-Nacha, Heir to Entwining",2,2,2,"Fanfare: Reduce your faith's value by 10 to give it ""Increase the number of Modes you can select by 1.""
+Super-Evolve: Select an enemy follower on the field, destroy it, and add a copy of it to your hand.","Fanfare: Reduce your faith's value by 10 to give it ""Increase the number of Modes you can select by 1.""
+Super-Evolve: Select an enemy follower on the field, destroy it, and add a copy of it to your hand.",Abysscraft,Follower,Encroacher
+10321310,Shield Bash,2,0,0,Select an allied follower on the field and give it Ward. Deal 4 damage to a random enemy follower.,,Swordcraft,Spell,
+10363210,Shining Disenchantment,4,0,0,"Countdown (4)
+Last Words: Deal 4 damage split between all enemies. Restore 4 defense to your leader.
+Engage: Advance this amulet's count by X. X is the number of crests you have.",,Havencraft,Amulet,
+10122140,Shinobi Squirrel,2,2,1,"Ambush
+Evolve: Summon a Shinobi Squirrel.","Ambush
+Evolve: Summon a Shinobi Squirrel.",Swordcraft,Follower,
+10471110,"Sho, Reborn Night King",3,2,1,"Fanfare: If you've unlocked super-evolution, give this follower Barrier.
+Storm","Fanfare: If you've unlocked super-evolution, give this follower Barrier.
+Storm",Portalcraft,Follower,
+10671110,Shoddy Plaything,6,1,3,"Fanfare: Draw 3 cards.
+Ward","Fanfare: Draw 3 cards.
+Ward",Portalcraft,Follower,
+10634110,"Shymm, Love Bewitched",3,1,2,"Fanfare: Summon 2 copies of Crystalspawn.
+Drain
+Super-Evolve: Gain Crest: Shymm, Love Bewitched.","Fanfare: Summon 2 copies of Crystalspawn.
+Drain
+Super-Evolve: Gain Crest: Shymm, Love Bewitched.",Runecraft,Follower,
+90004110,Silent Rider,6,10,10,Storm,Storm,Neutral,Follower,
+10141110,Silvercloud Dragonrider,8,6,6,"Ward
+Last Words: Summon a Vastwing Dragon.","Ward
+Last Words: Summon a Vastwing Dragon.",Dragoncraft,Follower,
+10573310,Sincerity of the Dewdrop,1,0,0,Select a card on the field and transform it into an Imari's Little Buddies.,,Portalcraft,Spell,
+10324110,"Sinciro, Heir to Usurpation",6,5,6,"Fuse: Loot cards
+Fanfare: Deal X damage to all enemies. X is the number of differently named cards Fused to this card.
+Super-Evolve: Replicate the effects of this card's Fanfare ability.","Fuse: Loot cards
+Fanfare: Deal X damage to all enemies. X is the number of differently named cards Fused to this card.
+Super-Evolve: Replicate the effects of this card's Fanfare ability.",Swordcraft,Follower,
+90051110,Skeleton,0,1,1,,,Abysscraft,Follower,Departed
+10163110,Skullfane of Demise,6,4,4,Fanfare: Destroy all allied amulets. Deal X damage to all enemies. X is the number of amulets destroyed by this ability.,Fanfare: Destroy all allied amulets. Deal X damage to all enemies. X is the number of amulets destroyed by this ability.,Havencraft,Follower,
+10462210,Skyfaring Vessel,4,0,0,"Activates in hand. Whenever you Engage an amulet, reduce the cost of this card by 1.
+Engage: Destroy this card. Select an unevolved allied follower on the field and evolve it.",,Havencraft,Spell,
+10574110,"Slaus, Revolving Wheel of Fortune",3,0,2,"Ambush
+At the end of your turn, if this follower is evolved, give your opponent Crest: Slaus, Revolving Wheel of Fortune and banish this card.
+At the start of your turn, activate a random ability that hasn't been activated yet from the following.
+1. Reduce the cost of all cards in your hand by 1 until the end of the turn.
+2. Give all allied followers on the field +2/+2.
+3. Restore 3 defense to your leader.","Ambush
+At the end of your turn, if this follower is evolved, give your opponent Crest: Slaus, Revolving Wheel of Fortune and banish this card.
+At the start of your turn, activate a random ability that hasn't been activated yet from the following.
+1. Reduce the cost of all cards in your hand by 1 until the end of the turn.
+2. Give all allied followers on the field +2/+2.
+3. Restore 3 defense to your leader.",Portalcraft,Follower,
+10543310,Sloth of the Crestpetal,2,0,0,"Do this 2 times: ""Deal 2 damage to a random enemy follower."" If you're in Overflow, deal 2 damage to the enemy leader.",,Dragoncraft,Spell,
+10521120,Smoke-Shrouded Beauty,3,3,3,"Fanfare: If you have at least 2 spells in your hand, give this follower +1/+1 and Ward.
+Evolve: Add a Glittering Gold to your hand.","Fanfare: If you have at least 2 spells in your hand, give this follower +1/+1 and Ward.
+Evolve: Add a Glittering Gold to your hand.",Swordcraft,Follower,
+10132320,Snowman Army,8,0,0,"On Spellboost: Reduce the cost of this card by 1.
+Select an enemy follower on the field, set its defense to 1, and, until the end of your opponent's turn, give it ""Can't attack followers or leaders.""",,Runecraft,Spell,
+10341120,Snowstorm Dragonewt,6,6,6,Fanfare: Destroy all damaged enemy followers.,Fanfare: Destroy all damaged enemy followers.,Dragoncraft,Follower,
+10241120,Soaring Ivory Dragon,1,1,1,"Fanfare: If you're in Overflow, draw a card.
+Rush","Fanfare: If you're in Overflow, draw a card.
+Rush",Dragoncraft,Follower,
+10564110,"Sofina, Inspiring Strength",4,2,2,"Fanfare: Select a Mode to activate.
+1. Evolve this follower.
+2. Evolve another random unevolved allied follower with Ward and give it +1/+1.
+Ward
+At the end of your turn, if this follower is evolved, give all other followers on the field -1/-1.","Fanfare: Select a Mode to activate.
+1. Evolve this follower.
+2. Evolve another random unevolved allied follower with Ward and give it +1/+1.
+Ward
+At the end of your turn, if this follower is evolved, give all other followers on the field -1/-1.",Havencraft,Follower,
+10462120,"Sophia, Zeyen Priestess",4,3,5,"Fanfare: Summon a random Havencraft follower that costs 2 or less from your deck.
+Super-Evolve: Give all other allied followers on the field Barrier.","Fanfare: Summon a random Havencraft follower that costs 2 or less from your deck.
+Super-Evolve: Give all other allied followers on the field Barrier.",Havencraft,Follower,
+10052310,Soul Predation,2,0,0,Select an allied follower on the field and destroy it. Draw 2 cards.,,Abysscraft,Spell,
+10061110,Soulcure Sister,6,3,5,"Fanfare: Restore 5 defense to your leader.
+Ward","Fanfare: Restore 5 defense to your leader.
+Ward",Havencraft,Follower,
+10633110,Spellbound Professor,4,3,4,"Fanfare: Summon 2 copies of Crystalspawn.
+Evolve: Give all allied copies of Crystalspawn on the field +1/+0.","Fanfare: Summon 2 copies of Crystalspawn.
+Evolve: Give all allied copies of Crystalspawn on the field +1/+0.",Runecraft,Follower,
+10642120,Spiked Dragon,8,5,5,"At the end of your turn, evolve this follower.
+When this follower evolves, deal 3 damage to all enemies.","At the end of your turn, evolve this follower.
+When this follower evolves, deal 3 damage to all enemies.",Dragoncraft,Follower,
+10642310,Spilling Red,1,0,0,Select a card in your hand and discard it. Select an enemy follower on the field and destroy it.,,Dragoncraft,Spell,
+10352120,Spirited Gravekeeper,2,2,2,Enhance (7): Reanimate (5) and Reanimate (3).,Enhance (7): Reanimate (5) and Reanimate (3).,Abysscraft,Follower,
+10513110,Spirited Skipper,5,4,3,"Fanfare: Summon 3 copies of Fairy.
+Evolve: Replicate the effects of this card's Fanfare ability.
+Super-Evolve: Give all allied Pixie followers on the field Bane.","Fanfare: Summon 3 copies of Fairy.
+Evolve: Replicate the effects of this card's Fanfare ability.
+Super-Evolve: Give all allied Pixie followers on the field Bane.",Forestcraft,Follower,
+10523310,Splendor of the Goldbloom,3,0,0,"Add 2 copies of Glittering Gold to your hand.
+Enhance (5): Add 4 instead.",,Swordcraft,Spell,
+90011120,Springbloom Fairy,2,1,1,"Ward
+At the end of your turn, evolve this follower.","Ward
+At the end of your turn, evolve this follower.",Forestcraft,Follower,Pixie
+10541110,Springwell Steward,2,2,2,"Evolve: Select an enemy follower on the field and deal it 5 damage.
+Super-Evolve: Select 2 instead.","Evolve: Select an enemy follower on the field and deal it 5 damage.
+Super-Evolve: Select 2 instead.",Dragoncraft,Follower,
+10412310,Starry Sky,1,0,0,Deal 2 damage to a random enemy follower. Combo (5) - Gain Crest: Starry Sky.,,Forestcraft,Spell,
+10131140,Starry-Eyed Penguin Wizard,4,2,2,"Fanfare: Draw 2 cards.
+Evolve: Spellboost your hand 2 times.","Fanfare: Draw 2 cards.
+Evolve: Spellboost your hand 2 times.",Runecraft,Follower,
+90021120,Steelclad Knight,1,2,2,,,Swordcraft,Follower,Officer
+10472310,Stone Breaker,3,0,0,"Do this 6 times: ""Deal 1 damage to a random enemy follower.""",,Portalcraft,Spell,
+10131320,Stormy Blast,1,0,0,"X starts at 2.
+On Spellboost: Increase X by 1.
+Select an enemy follower on the field and deal it X damage.",,Runecraft,Spell,
+10541120,Stormy Shamisen Shredder,6,5,5,"Fanfare: Summon a Majestic Megalorca.
+Whenever an allied Marine follower enters the field, restore 2 defense to your leader.","Fanfare: Summon a Majestic Megalorca.
+Whenever an allied Marine follower enters the field, restore 2 defense to your leader.",Dragoncraft,Follower,
+10011120,Stray Beastman,2,2,2,Fanfare: Increase your Combo by 1.,Fanfare: Increase your Combo by 1.,Forestcraft,Follower,
+10172310,Stream of Life,2,0,0,Select an enemy follower on the field and deal it 3 damage. Add a Gear of Remembrance to your hand.,,Portalcraft,Spell,
+10041310,Strike of the Dragonewt,1,0,0,"Select an enemy follower on the field and deal it 2 damage. If you're in Overflow, deal 4 damage instead.",,Dragoncraft,Spell,
+90072110,Striker Artifact,3,5,1,"Fuse: Artifact cards
+When you Fuse to this card, transform it based on the total cost of the cards fused.
+1: Ominous Artifact α
+2: Ominous Artifact β
+3 or more: Ominous Artifact γ
+Rush","Fuse: Artifact cards
+When you Fuse to this card, transform it based on the total cost of the cards fused.
+1: Ominous Artifact α
+2: Ominous Artifact β
+3 or more: Ominous Artifact γ
+Rush",Portalcraft,Follower,Artifact
+10663210,Sublime Eld Tome,4,0,0,"Fanfare: Select another card on the field and destroy it. If you selected an allied amulet, recover 2 play points.
+Countdown (2)
+Last Words: Summon a copy of a random allied amulet destroyed this match with Last Words and a base cost of 2 or less.",,Havencraft,Amulet,Encroacher
+10672110,Substandard Puppet,5,2,1,Fanfare: Summon a Substandard Puppet and evolve it and this follower.,Fanfare: Summon a Substandard Puppet and evolve it and this follower.,Portalcraft,Follower,
+10431120,"Suframare, Wandering Tutor",1,1,1,"At the end of your turn, spellboost your hand X times. X is this follower's attack.
+Evolve: Give this follower ""Can't attack followers or leaders.""","At the end of your turn, spellboost your hand X times. X is this follower's attack.
+Evolve: Give this follower ""Can't attack followers or leaders.""",Runecraft,Follower,
+10371120,Supersonic Fighter,7,3,3,"Fanfare: Summon an Ominous Artifact γ.
+Evolve: Select an allied Artifact follower on the field and give it +3/+3.","Fanfare: Summon an Ominous Artifact γ.
+Evolve: Select an allied Artifact follower on the field and give it +3/+3.",Portalcraft,Follower,
+10372110,Supplicant of Destruction,2,2,2,"Fanfare: Select another allied card on the field. If you selected one, destroy it and deal 2 damage to a random enemy follower.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Select another allied card on the field. If you selected one, destroy it and deal 2 damage to a random enemy follower.
+Evolve: Replicate the effects of this card's Fanfare ability.",Portalcraft,Follower,
+10342110,Supplicant of Disdain,5,3,5,"Rush
+Ward
+At the end of your turn, fully restore the defense of this follower and restore the same amount to your leader.","Rush
+Ward
+At the end of your turn, fully restore the defense of this follower and restore the same amount to your leader.",Dragoncraft,Follower,
+10352110,Supplicant of Entwining,4,4,4,"Fanfare: Select a Mode to activate.
+1. Deal 3 damage to a random enemy follower.
+2. Restore 2 defense to your leader.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Select a Mode to activate.
+1. Deal 3 damage to a random enemy follower.
+2. Restore 2 defense to your leader.
+Evolve: Replicate the effects of this card's Fanfare ability.",Abysscraft,Follower,
+10362110,Supplicant of Repose,3,1,4,"Fanfare: Gain Crest: Supplicant of Repose.
+Ward","Fanfare: Gain Crest: Supplicant of Repose.
+Ward",Havencraft,Follower,
+10332110,Supplicant of Truth,5,3,2,"Fanfare: Deal 3 damage to all other followers. If this card's cost isn't 5, draw 2 cards.","Fanfare: Deal 3 damage to all other followers. If this card's cost isn't 5, draw 2 cards.",Runecraft,Follower,
+10312110,Supplicant of Unkilling,6,5,6,"Fanfare: Give all enemy followers on the field -0/-3.
+Super-Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Give all enemy followers on the field -0/-3.
+Super-Evolve: Replicate the effects of this card's Fanfare ability.",Forestcraft,Follower,
+10322110,Supplicant of Usurpation,2,1,2,"Fanfare: Add a Gilded Necklace to your hand.
+Last Words: Add a Gilded Blade to your hand.","Fanfare: Add a Gilded Necklace to your hand.
+Last Words: Add a Gilded Blade to your hand.",Swordcraft,Follower,
+10551110,Support Wolf,2,2,2,"Enhance (6): Give this follower +0/+6, Bane, and Barrier.
+Rush","Enhance (6): Give this follower +0/+6, Bane, and Barrier.
+Rush",Abysscraft,Follower,
+90044110,Supreme Golden Dragon,4,4,5,Ward,Ward,Dragoncraft,Follower,
+90044120,Supreme Silver Dragon,4,5,4,Rush,Rush,Dragoncraft,Follower,
+90004330,Sweetness of Voracity,5,0,0,Deal 5 damage to a random enemy follower and the enemy leader.,,Neutral,Spell,
+10522110,Swift Staffmaster,6,3,3,"When you draw this card, set its cost to 3 until the end of the turn.
+Fanfare: Draw a card. Restore 3 defense to your leader.
+Rush","When you draw this card, set its cost to 3 until the end of the turn.
+Fanfare: Draw a card. Restore 3 defense to your leader.
+Rush",Swordcraft,Follower,
+10141120,Swordsnout Trencher,5,4,6,"Fanfare: If you're in Overflow, give this follower Storm.","Fanfare: If you're in Overflow, give this follower Storm.",Dragoncraft,Follower,
+10173120,"Sylvia, Garden Executioner",6,5,5,"Fanfare: Select a Mode to activate.
+1. Draw 2 cards.
+2. Restore 4 defense to your leader.
+Evolve: Select an enemy follower on the field and destroy it.
+Super-Evolve: Select 2 instead.","Fanfare: Select a Mode to activate.
+1. Draw 2 cards.
+2. Restore 4 defense to your leader.
+Evolve: Select an enemy follower on the field and destroy it.
+Super-Evolve: Select 2 instead.",Portalcraft,Follower,
+10273310,Synchronous Hearts,6,0,0,Summon a Lloyd and Victoria.,,Portalcraft,Spell,
+10303210,Tablet of Tribulations,3,0,0,"Fanfare: Banish all duplicates from your deck.
+Engage (1): Draw a card.",,Neutral,Spell,
+10362210,Temple of Repose,3,0,0,"Countdown (4)
+Last Words: Restore 2 defense to your leader. Give your leader Barrier.
+Engage: Advance this amulet's count by X. X is the number of crests you have.",,Havencraft,Amulet,
+10531110,Terraforming Wizard,3,3,3,"Fanfare: Gain 2 earth sigils.
+Super-Evolve: Summon 2 copies of Guardian Golem.","Fanfare: Gain 2 earth sigils.
+Super-Evolve: Summon 2 copies of Guardian Golem.",Runecraft,Follower,
+10463110,"Tikoh, Asclepian Surgeon",1,0,4,"Whenever you Engage an amulet, restore 1 defense to your leader.
+Evolve: Select an enemy follower on the field and deal it 3 damage.","Whenever you Engage an amulet, restore 1 defense to your leader.
+Evolve: Select an enemy follower on the field and deal it 3 damage.",Havencraft,Follower,
+10672120,Timid Pioneer,4,1,1,"Fanfare: Select an enemy follower on the field with 3 defense or less and banish it.
+Ambush","Fanfare: Select an enemy follower on the field with 3 defense or less and banish it.
+Ambush",Portalcraft,Follower,
+10214110,"Titania, Queen of Fairies",4,2,2,"Fanfare: Summon a Fairy. Gain Crest: Titania, Queen of Fairies.
+Evolve: Select an enemy follower on the field and transform it into a Fairy.","Fanfare: Summon a Fairy. Gain Crest: Titania, Queen of Fairies.
+Evolve: Select an enemy follower on the field and transform it into a Fairy.",Forestcraft,Follower,
+90064310,Torrent of Despair,2,0,0,Banish a random enemy follower from the field. Delay the counts of all your crests by 1.,,Havencraft,Spell,
+10461110,"Troue, Heroic Visionary",3,2,1,"Storm
+Whenever you Engage an amulet, give this follower Drain.","Storm
+Whenever you Engage an amulet, give this follower Drain.",Havencraft,Follower,
+10031320,Truth Summons,2,0,0,Summon a Clay Golem.,,Runecraft,Spell,
+10471120,"Tsubasa, Blazing Gearcyclist",2,3,1,"Fanfare: Increase the Skybound Art gauges of all cards in your hand by 1.
+Rush","Fanfare: Increase the Skybound Art gauges of all cards in your hand by 1.
+Rush",Portalcraft,Follower,
+10143140,Twilight Dragon,9,9,9,"Fanfare: Give all enemy followers on the field -0/-9.
+Super-Evolve: Draw 3 cards.","Fanfare: Give all enemy followers on the field -0/-9.
+Super-Evolve: Draw 3 cards.",Dragoncraft,Follower,
+10201110,Twinblade Goblin,1,1,1,"Fanfare: If there's a super-evolved allied follower on the field, select an enemy follower on the field and deal it 4 damage.","Fanfare: If there's a super-evolved allied follower on the field, select an enemy follower on the field and deal it 4 damage.",Neutral,Follower,
+10552310,Tyrannical Fists,2,0,0,Deal 3 damage to all leaders with the lowest defense.,,Abysscraft,Spell,
+10252120,Undead Soldier,6,3,3,Fanfare: Summon 2 copies of Rotting Zombie.,Fanfare: Summon 2 copies of Rotting Zombie.,Abysscraft,Follower,
+10673310,Unfeeling Eld Axe,3,0,0,"Activates in hand. Whenever an allied follower with a base cost of 5 or more enters the field, reduce the cost of this card by 1 until the end of the turn.
+Evolve a random unevolved allied follower on the field with a base cost of 5 or more. Deal 6 damage to a random enemy follower.",,Portalcraft,Spell,Encroacher
+10163220,Unholy Vessel,6,0,0,Engage: Destroy this card and all followers.,,Havencraft,Spell,
+10661210,Unholy Water,2,0,0,"Countdown (3)
+Last Words: Draw a card. Destroy a random enemy follower.
+Engage (1): Advance this amulet's count by 1.",,Havencraft,Amulet,
+10524120,"Unkei, Goldbloom",5,2,4,"Fanfare: Select an enemy follower on the field and banish it. Add a Glittering Gold to your hand.
+Super-Evolve: Gain Crest: Unkei, Goldbloom.","Fanfare: Select an enemy follower on the field and banish it. Add a Glittering Gold to your hand.
+Super-Evolve: Gain Crest: Unkei, Goldbloom.",Swordcraft,Follower,
+10432310,Unleashed,4,0,0,"Select a Mode to activate.
+1. Draw a card. Deal 4 damage to a random enemy follower.
+2. Draw 2 cards. Deal 4 damage to 2 random enemy followers and 2 damage to your leader.",,Runecraft,Spell,
+10523110,Unmoving Tactician,4,5,6,"Can't attack followers or leaders.
+At the end of your turn, summon a Steelclad Knight.
+Super-Evolve: Give all other allied followers on the field +3/+3.","Can't attack followers or leaders.
+At the end of your turn, summon a Steelclad Knight.
+Super-Evolve: Give all other allied followers on the field +3/+3.",Swordcraft,Follower,
+10451310,Valiant Edge,2,0,0,Deal 2 damage to your leader. Gain Crest: Valiant Edge.,,Abysscraft,Spell,
+10551310,Valor of the Nightblossom,2,0,0,Select an enemy follower on the field and deal it 5 damage. Add a Valor of the Nightblossom to your deck.,,Abysscraft,Spell,
+10123120,"Valse, Silent Sniper",3,2,1,"Fanfare: Select an enemy follower on the field and deal it 5 damage.
+Enhance (6): Give this follower +2/+2 and Ambush.","Fanfare: Select an enemy follower on the field and deal it 5 damage.
+Enhance (6): Give this follower +2/+2 and Ambush.",Swordcraft,Follower,
+10451120,"Vaseraga, Unyielding Scythe",6,2,7,"Intimidate
+Last Words: Summon a Vaseraga, Unyielding Scythe. Deal 2 damage to your leader.","Intimidate
+Last Words: Summon a Vaseraga, Unyielding Scythe. Deal 2 damage to your leader.",Abysscraft,Follower,
+90041120,Vastwing Dragon,5,5,5,Intimidate,Intimidate,Dragoncraft,Follower,
+10334110,"Velharia, Heir to Truth",2,1,1,"Fanfare: Draw a card.
+Evolve: Select an enemy follower on the field and banish it.
+Super-Evolve: Banish all enemy copies of it from the field.","Fanfare: Draw a card.
+Evolve: Select an enemy follower on the field and banish it.
+Super-Evolve: Banish all enemy copies of it from the field.",Runecraft,Follower,
+10662110,Venerating Dyer,4,5,3,"Rush
+Bane","Rush
+Bane",Havencraft,Follower,
+90074130,Victoria,3,6,1,"Rush
+Follower Strike: Deal X damage to the opposing follower. X is this follower's attack.","Rush
+Follower Strike: Deal X damage to the opposing follower. X is this follower's attack.",Portalcraft,Follower,Puppetry
+10272110,"Vier, Heart Slayer",2,1,1,"Fanfare: Select a Puppetry follower in your hand and transform it into a Doll Slayer.
+Bane","Fanfare: Select a Puppetry follower in your hand and transform it into a Doll Slayer.
+Bane",Portalcraft,Follower,
+10101120,Vigilant Detective,3,3,3,Last Words: Add a Detective's Lens to your hand.,Last Words: Add a Detective's Lens to your hand.,Neutral,Follower,
+10464120,"Vira, Luminous Primal Knight",8,6,8,"Fanfare: Select 2 enemy followers on the field and banish them. Super Skybound Art - Super-evolve this follower.
+Ward
+Can't take more than 3 damage at a time.","Fanfare: Select 2 enemy followers on the field and banish them. Super Skybound Art - Super-evolve this follower.
+Ward
+Can't take more than 3 damage at a time.",Havencraft,Follower,
+10152140,"Vlad, Impaler",8,5,8,Fanfare: Select an enemy follower on the field and deal it 5 damage. Restore 5 defense to your leader.,Fanfare: Select an enemy follower on the field and deal it 5 damage. Restore 5 defense to your leader.,Abysscraft,Follower,
+10644120,"Vorlalai, Eld Blades",2,0,2,"When this card is discarded, summon a Vorlalai, Eld Blades.
+Bane
+Evolve: Add a Depths of the Eld Blades to your hand.
+Super-Evolve: Add 3 copies instead.","When this card is discarded, summon a Vorlalai, Eld Blades.
+Bane
+Evolve: Add a Depths of the Eld Blades to your hand.
+Super-Evolve: Add 3 copies instead.",Dragoncraft,Follower,Encroacher
+10252110,"Vuella, the Blastwing",3,2,4,"Rush
+Whenever another allied follower super-evolves, give it and this follower +2/+0.","Rush
+Whenever another allied follower super-evolves, give it and this follower +2/+0.",Abysscraft,Follower,
+10401120,"Vyrn, Bestest Pal",2,2,2,"Fanfare: If you've unlocked super-evolution, evolve this follower.","Fanfare: If you've unlocked super-evolution, evolve this follower.",Neutral,Follower,
+10434110,"Wamdus, Water Personified",3,0,1,"On Spellboost: Give this follower +1/+1.
+Fanfare: Spellboost your hand.
+Super-Evolve: Select a Mode to activate.
+1. Give all other allied followers on the field Barrier.
+2. Deal X damage split between all enemy followers. X is this follower's attack.","On Spellboost: Give this follower +1/+1.
+Fanfare: Spellboost your hand.
+Super-Evolve: Select a Mode to activate.
+1. Give all other allied followers on the field Barrier.
+2. Deal X damage split between all enemy followers. X is this follower's attack.",Runecraft,Follower,
+10041130,Warrior of the Deep,8,6,6,Fanfare: Deal 6 damage to the enemy leader.,Fanfare: Deal 6 damage to the enemy leader.,Dragoncraft,Follower,
+10372210,Wasteland of Destruction,2,0,0,"Fanfare: Select another allied card on the field. If you selected one, destroy it and draw 2 cards.
+Last Words: Draw a card.",,Portalcraft,Spell,
+10531120,Waterbending Charmwielder,6,3,3,Fanfare: Deal 3 damage to 3 random enemy followers. Spellboost your hand 3 times.,Fanfare: Deal 3 damage to 3 random enemy followers. Spellboost your hand 3 times.,Runecraft,Follower,
+10021310,Way of the Maid,2,0,0,Select a card in your hand and return it to deck. Draw 2 Swordcraft followers.,,Swordcraft,Spell,
+90074210,"White Psalm, New Revelation",3,0,0,"Countdown (1)
+Last Words: Restore 1 defense to your leader. Summon a Black Psalm, New Revelation.",,Portalcraft,Amulet,
+90044310,Whitefrost Whisper,3,0,0,"Select a Mode to activate.
+1. Destroy all damaged enemy followers.
+2. Increase the cost of all cards in your opponent's hand by 1 until the end of their turn.",,Dragoncraft,Spell,
+10141150,Whitescale Herald,4,4,4,"Fanfare: If you're in Overflow, restore 4 defense to your leader.","Fanfare: If you're in Overflow, restore 4 defense to your leader.",Dragoncraft,Follower,
+10264120,"Wilbert, Desolate Paladin",6,4,6,"Ward
+Last Words: Summon 2 copies of Holy Cavalier.
+Evolve: Gain Crest: Wilbert, Desolate Paladin.
+","Ward
+Last Words: Summon 2 copies of Holy Cavalier.
+Evolve: Gain Crest: Wilbert, Desolate Paladin.
+",Havencraft,Follower,
+10011210,Wild Profusion,2,0,0,"Fanfare: Add a Fairy to your hand.
+Countdown (2)
+Whenever an allied Pixie follower enters the field, deal 1 damage to a random enemy follower.",,Forestcraft,Amulet,
+10211110,Wildheart,3,3,3,Rush,Rush,Forestcraft,Follower,
+10132130,"William, Mysterian Student",6,5,5,"X starts at 0.
+On Spellboost: Increase X by 1.
+Fanfare: Deal X damage to all enemy followers.
+Evolve: Spellboost your hand 2 times.","X starts at 0.
+On Spellboost: Increase X by 1.
+Fanfare: Deal X damage to all enemy followers.
+Evolve: Spellboost your hand 2 times.",Runecraft,Follower,Mysteria
+10444110,"Wilnas, Flame Personified",7,8,6,"Fanfare: Select an enemy follower on the field and deal it 8 damage.
+Intimidate
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Select an enemy follower on the field and deal it 8 damage.
+Intimidate
+Evolve: Replicate the effects of this card's Fanfare ability.",Dragoncraft,Follower,
+10362220,Winged Lion Statue,3,0,0,"Countdown (3)
+Last Words: Summon a Holy Falcon and Holyflame Tiger.
+Engage (1): Advance this amulet's count by 1.",,Havencraft,Amulet,
+10252310,Winged Servants,2,0,0,Summon 2 copies of Bat.,,Abysscraft,Spell,
+10062210,Winged Statue,1,0,0,"Countdown (4)
+Last Words: Summon a Holy Falcon.
+Engage (1): Advance this amulet's count by 1.",,Havencraft,Amulet,
+10061130,Winged Warrior,4,4,4,"Fanfare: Select another allied follower on the field and give it +1/+1.
+Evolve: Replicate the effects of this card's Fanfare ability.","Fanfare: Select another allied follower on the field and give it +1/+1.
+Evolve: Replicate the effects of this card's Fanfare ability.",Havencraft,Follower,
+90054320,Wings of Desire,0,0,0,Select an allied Rulenye & Valnareik on the field and give it Storm.,,Abysscraft,Spell,
+10371310,Wired Assault,4,0,0,Select an enemy follower on the field and destroy it. Add 2 copies of Puppet to your hand.,,Portalcraft,Spell,
+10241110,Wise Guardian Dragon,10,4,4,"Activates in hand. Whenever an allied follower super-evolves, reduce the cost of this card by 3.
+Fanfare: Summon a Vastwing Dragon.","Activates in hand. Whenever an allied follower super-evolves, reduce the cost of this card by 3.
+Fanfare: Summon a Vastwing Dragon.",Dragoncraft,Follower,
+10031210,Witch's New Brew,1,0,0,"Fanfare: Draw a card.
+Earth Sigil
+Engage (1): Gain an earth sigil.",,Runecraft,Spell,Earth Sigil
+10514110,"Wolfraud, Skybound Hanged Man",2,1,1,"Fanfare: Give this follower +X/+X. X is your Combo.
+Evolve: Discard your hand. Add an exact copy each of 5 random cards in your opponent's deck to your hand without revealing them.","Fanfare: Give this follower +X/+X. X is your Combo.
+Evolve: Discard your hand. Add an exact copy each of 5 random cards in your opponent's deck to your hand without revealing them.",Forestcraft,Follower,
+10532120,Woodsong Haikumaster,6,2,1,"On Spellboost: Reduce the cost of this card by 1.
+Fanfare: Draw a card.
+Last Words: Spellboost your hand.","On Spellboost: Reduce the cost of this card by 1.
+Fanfare: Draw a card.
+Last Words: Spellboost your hand.",Runecraft,Follower,
+10211310,Woodwalkers,7,0,0,Summon 3 copies of Gentle Treant.,,Forestcraft,Spell,
+10111140,Workin' Grasshopper,3,2,1,Fanfare: Draw an X-cost follower. X is your Combo.,Fanfare: Draw an X-cost follower. X is your Combo.,Forestcraft,Follower,
+10503210,World of Games,1,0,0,"Countdown (5)
+Whenever you play another card, if there's a card on the field other than it with the same base cost, advance this amulet's count by 1.
+Last Words: Draw 2 cards.",,Neutral,Amulet,
+10663110,Worshipful Crusader,6,2,4,"Fanfare: Summon a Worshipful Crusader.
+Bane
+Aura
+Evolve: Select an enemy follower on the field and destroy it.","Fanfare: Summon a Worshipful Crusader.
+Bane
+Aura
+Evolve: Select an enemy follower on the field and destroy it.",Havencraft,Follower,
+10652110,Yearnful Necromancer,3,3,3,"Enhance (8): Reanimate (9).
+Ward","Enhance (8): Reanimate (9).
+Ward",Abysscraft,Follower,
+10624120,"Yidmetra, Eld Sword",2,1,2,"Fanfare: Add a Depths of the Eld Sword to your hand.
+Evolve: Reduce your faith's value by 5 to give it ""Whenever you play an Enhanced card, give all allied followers on the field +1/+1.""","Fanfare: Add a Depths of the Eld Sword to your hand.
+Evolve: Reduce your faith's value by 5 to give it ""Whenever you play an Enhanced card, give all allied followers on the field +1/+1.""",Swordcraft,Follower,Encroacher
+10674120,"Yog-Zentha, Eld Axe",2,2,1,"Fanfare: If there's an allied follower on the field with a base cost of 5 or more, add a Depths of the Eld Axe to your hand.
+Rush","Fanfare: If there's an allied follower on the field with a base cost of 5 or more, add a Depths of the Eld Axe to your hand.
+Rush",Portalcraft,Follower,Encroacher
+10544120,"Yube, Crestpetal",3,1,2,"Fanfare: Summon a Majestic Megalorca.
+Evolve: Select a card in your hand and discard it. Gain Crest: Yube, Crestpetal.","Fanfare: Summon a Majestic Megalorca.
+Evolve: Select a card in your hand and discard it. Gain Crest: Yube, Crestpetal.",Dragoncraft,Follower,
+10414120,"Yuel & Societte, Dancing Duo",5,4,3,"Fanfare: Do this 2 times: ""Deal 4 damage to a random enemy follower.""
+Super-Evolve: Gain Crest: Yuel & Societte, Dancing Duo.","Fanfare: Do this 2 times: ""Deal 4 damage to a random enemy follower.""
+Super-Evolve: Gain Crest: Yuel & Societte, Dancing Duo.",Forestcraft,Follower,
+10152130,"Yuna, Occult Hunter",4,3,5,"Ward
+Last Words: Add a Ghost and Bat to your hand.","Ward
+Last Words: Add a Ghost and Bat to your hand.",Abysscraft,Follower,
+10402110,"Yuni, Cosmic Legacy",3,3,3,"Aura
+At the end of your turn, restore 1 defense to all allies.","Aura
+At the end of your turn, restore 1 defense to all allies.",Neutral,Follower,
+10224120,"Yurius, Levin Authority",8,5,7,"Fanfare: Summon 2 enemy copies of Knight.
+Whenever an enemy follower enters the field, give it ""Can't attack followers or leaders"" until the end of your opponent's turn, deal 1 damage to the enemy leader, and restore 1 defense to your leader.","Fanfare: Summon 2 enemy copies of Knight.
+Whenever an enemy follower enters the field, give it ""Can't attack followers or leaders"" until the end of your opponent's turn, deal 1 damage to the enemy leader, and restore 1 defense to your leader.",Swordcraft,Follower,Levin
+10143130,"Zahar, Stormwave Dragoon",6,3,3,"Fanfare: Summon a Vastwing Dragon.
+Ward","Fanfare: Summon a Vastwing Dragon.
+Ward",Dragoncraft,Follower,
+10142130,"Zell, Windreader",3,3,3,Super-Evolve: Select another allied follower on the field and give it Storm.,Super-Evolve: Select another allied follower on the field and give it Storm.,Dragoncraft,Follower,
+10424110,"Zeta & Bea, Crimson and Blue",4,3,2,"Fanfare: Summon a Zeta & Bea, Crimson and Blue.
+Enhance (6): Give it Bane and this follower Storm.
+Rush","Fanfare: Summon a Zeta & Bea, Crimson and Blue.
+Enhance (6): Give it Bane and this follower Storm.
+Rush",Swordcraft,Follower,
+10123130,"Zirconia, Ironcrown Ward",4,4,4,Evolve: Summon 2 copies of Knight. Give all other allied followers on the field +1/+1.,Evolve: Summon 2 copies of Knight. Give all other allied followers on the field +1/+1.,Swordcraft,Follower,
+10444120,"Zooey, Ally of the World",5,5,5,"Fanfare: Gain 1 max play point.
+Enhance (10): Give this follower Storm. Set your leader's max defense to 1. Give your leader ""Can't take more than 0 damage at a time"" until the end of your opponent's turn.","Fanfare: Gain 1 max play point.
+Enhance (10): Give this follower Storm. Set your leader's max defense to 1. Give your leader ""Can't take more than 0 damage at a time"" until the end of your opponent's turn.",Dragoncraft,Follower,
+10274110,"Zwei, Symphonic Heart",5,3,3,"Fanfare: Summon a Victoria.
+Whenever an allied Puppetry follower enters the field, give it Ward.
+Evolve: Summon an Enhanced Puppet.","Fanfare: Summon a Victoria.
+Whenever an allied Puppetry follower enters the field, give it Ward.
+Evolve: Summon an Enhanced Puppet.",Portalcraft,Follower,
