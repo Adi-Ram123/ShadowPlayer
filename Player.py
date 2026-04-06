@@ -59,22 +59,23 @@ class Player:
     def __str__(self):
         W = 78
 
-        def card_lines(card):
+        def card_lines(card, idx):
             CW = 11
             name = (card.name[:CW-3] + "...") if len(card.name) > CW else card.name
             name = name.center(CW)
             stats = f"{card.attack}/{card.health}".center(CW)
             border = "+" + "-" * CW + "+"
-            cost_line = str(card.cost).ljust(CW)
+            idx_str = f"#{idx}"
+            cost_line = str(card.cost) + idx_str.rjust(CW - len(str(card.cost)))
             return [border, f"|{cost_line}|", f"|{name}|", f"|{stats}|", border]
 
-        def render_row(cards, chunk_size=5):
+        def render_row(cards, chunk_size=5, start_idx=0):
             if not cards:
                 return f"|   {'(empty)':<{W-5}}|"
             chunks = [cards[i:i+chunk_size] for i in range(0, len(cards), chunk_size)]
             rows = []
-            for chunk in chunks:
-                boxes = [card_lines(c) for c in chunk]
+            for chunk_idx, chunk in enumerate(chunks):
+                boxes = [card_lines(c, start_idx + chunk_idx * chunk_size + i) for i, c in enumerate(chunk)]
                 rows.append("\n".join(f"| {'  '.join(b[i] for b in boxes):<{W-3}}|" for i in range(len(boxes[0]))))
             return "\n".join(rows)
 

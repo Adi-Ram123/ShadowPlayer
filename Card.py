@@ -18,6 +18,7 @@ class Card:
         self.drain = False
         self.aura = False
         self.barrier = False
+        self.canAttack = True
     
     def changeAttack(self, offset: int):
         self.attack += offset
